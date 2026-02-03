@@ -26,11 +26,11 @@ holidays:
       05-25:
         name:
           en: Africa Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Afrikadagen
       07-22:
         name:
           en: Revolution Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Revolutionsdagen
       08-15:
         _name: 08-15
       12-25:

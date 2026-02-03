@@ -25,7 +25,7 @@ holidays:
         substitute: true
         name:
           en: Restoration of Independence day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Återställandet av självständighetsdagen
           lv: Latvijas Republikas Neatkarības atjaunošanas diena
       2nd sunday in May:
         _name: Mothers Day

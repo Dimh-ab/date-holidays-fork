@@ -97,7 +97,7 @@ holidays:
         name:
           et: taassünni päev
           en: Day of Declaration of Sovereignty
-          sv: MANUAL OPERATION REQUIRED
+          sv: Dagen för suveränitetsförklaringen
         type: observance
       12-24:
         _name: 12-24
