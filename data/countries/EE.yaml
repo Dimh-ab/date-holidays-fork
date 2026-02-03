@@ -20,7 +20,7 @@ holidays:
         name:
           et: Tartu rahulepingu aastapäev
           en: Anniversary of the Tartu Peace Treaty
-          sv: MANUAL OPERATION REQUIRED
+          sv: Årsdagen av fredsfördraget i Tartu
         type: observance
       02-24:
         _name: Independence Day
@@ -29,7 +29,7 @@ holidays:
         name:
           et: emakeelepäev
           en: Native Language Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Modersmålsdagen
         type: observance
       easter -2:
         _name: easter -2
