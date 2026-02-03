@@ -58,7 +58,7 @@ holidays:
         name:
           et: võidupüha
           en: Victory Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Segerdagen
       06-24:
         name:
           et: jaanipäev
@@ -68,12 +68,12 @@ holidays:
         name:
           et: taasiseseisvumispäev
           en: Day of Restoration of Independence
-          sv: MANUAL OPERATION REQUIRED
+          sv: Dagen för återställandet av självständigheten
       08-23:
         name:
           et: kommunismi ja natsismi ohvrite mälestuspäev
           en: European Day of Remembrance for Victims of Stalinism and Nazism
-          sv: MANUAL OPERATION REQUIRED
+          sv: Europeisk minnesdag för stalinismens och nazismens offer
         type: observance
       2nd sunday in September:
         name:
@@ -85,7 +85,7 @@ holidays:
         name:
           et: vastupanuvõitluse päev
           en: Resistance Fighting Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Motståndskampens dag
         type: observance
       11-02:
         _name: 11-02
