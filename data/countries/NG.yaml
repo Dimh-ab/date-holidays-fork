@@ -27,7 +27,7 @@ holidays:
       05-29 prior to 2018:
         name:
           en: Democracy Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Demokratidagen
       06-12 prior to 2018:
         name:
           en: M.K.O Abiola Day
@@ -36,14 +36,14 @@ holidays:
         substitute: true
         name:
           en: Democracy Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Demokratidagen
       10-01:
         _name: Independence Day
       11-01 since 2020:
         # @source: https://allafrica.com/stories/202009030012.html
         name:
           en: National Youth Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Nationella ungdomsdagen
       12-31:
         _name: 12-31
         type: observance

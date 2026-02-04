@@ -32,13 +32,13 @@ holidays:
         name:
           nl: Koningsdag
           en: King's Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Koningsdag
           de: Königstag
       04-30 if sunday then next monday since 1949 and prior to 1980:
         name:
           nl: Koninginnedag
           en: Queen's Day
-          sv: Koningsdag
+          sv: Koninginnedag
           de: Königinnentag
       04-30 if sunday then previous saturday since 1980 and prior to 2014:
         name:
@@ -58,7 +58,7 @@ holidays:
         name:
           nl: Bevrijdingsdag
           en: Liberation Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Nederländernas befrielsedag
           de: Befreiungstag
         type: school
       2nd sunday in May:
@@ -96,7 +96,7 @@ holidays:
         name:
           nl: Prinsjesdag
           en: Prince's Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Prinsens dag
           de: Prinzentag
         note: Scholen in Den Haag geven meestal 1 dag vrij
         type: observance
@@ -114,7 +114,7 @@ holidays:
         name:
           nl: Koninkrijksdag
           en: Kingdom Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Kungarikets dag
           de: Königreichstag
         type: observance
       12-25:

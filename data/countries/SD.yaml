@@ -28,12 +28,12 @@ holidays:
         _name: julian 12-25
         name:
           en: Coptic Christmas
-          sv: MANUAL OPERATION REQUIRED
+          sv: Koptisk jul
       orthodox:
         _name: orthodox
         name:
           en: Coptic Easter
-          sv: MANUAL OPERATION REQUIRED
+          sv: Koptisk påsk
 
     # states:
     #   DC:
