@@ -17,12 +17,12 @@ holidays:
       korean 01-0-01 P3D:
         name:
           en: Korean New Year
-          sv: Seollal MANUAL OPERATION REQUIRED
+          sv: Seollal
           ko: 설날
       03-01:
         name:
           en: Independence Movement Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Självständighetsrörelsens dag
           ko: 3·1절
       05-05:
         name:
@@ -45,7 +45,7 @@ holidays:
       08-15:
         name:
           en: Liberation Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Gwangbokjeol
           ko: 광복절
       korean 8-0-15 P3D:
         name:
@@ -55,7 +55,7 @@ holidays:
       10-03:
         name:
           en: National Foundation Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Gaecheonjeol
           ko: 개천절
       10-09:
         name:
