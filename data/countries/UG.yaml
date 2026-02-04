@@ -16,11 +16,11 @@ holidays:
       01-26:
         name:
           en: Liberation Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Befrielsedagen
       02-16:
         name:
           en: Archbishop Janan Luwum Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Ärkebiskopen Janan Luwum-dagen
       03-08:
         _name: 03-08
       easter -46:
@@ -37,11 +37,11 @@ holidays:
       06-03:
         name:
           en: Martyr's Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Martyrens dag
       06-09:
         name:
           en: National Heroes Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Nationella hjältarnas dag
       10-09:
         _name: Independence Day
       12-25:

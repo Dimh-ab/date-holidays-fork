@@ -53,12 +53,12 @@ holidays:
       07-15 and if saturday, sunday then next monday since 2023:
         name:
           en: Statehood Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Ukrainas dag för statsbildning
           uk: День Української Державності
       07-28 and if saturday, sunday then next monday prior to 2023:
         name:
           en: Statehood Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Ukrainas dag för statsbildning
           uk: День Української Державності
       08-24 and if saturday, sunday then next monday:
         _name: Independence Day

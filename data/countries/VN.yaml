@@ -28,12 +28,12 @@ holidays:
       vietnamese 3-0-10:
         name:
           en: Hung Kings Commemorations
-          sv: MANUAL OPERATION REQUIRED
+          sv: Hung Kings' Festival
           vi: Giỗ tổ Hùng Vương
       04-30:
         name:
           en: Day of liberating the South for national reunification
-          sv: MANUAL OPERATION REQUIRED
+          sv: Dagen för befrielsen av södern för nationell återförening
           vi: Ngày Giải phóng miền Nam
       05-01:
         _name: 05-01
@@ -54,7 +54,7 @@ holidays:
       04-21:
         name:
           en: Vietnam Book Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Vietnams bokdag
           vi: Ngày Sách Việt Nam
         type: observance
       05-07:
@@ -66,7 +66,7 @@ holidays:
       05-19:
         name:
           en: President Ho Chi Minh's Birthday
-          sv: MANUAL OPERATION REQUIRED
+          sv: President Ho Chi Minh's födelsedag
           vi: Ngày sinh Chủ tịch Hồ Chí Minh
         type: observance
       06-01:
@@ -78,7 +78,7 @@ holidays:
       06-28:
         name:
           en: Vietnamese Family Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Vietnamesiska familjedagen
           vi: Ngày Gia đình Việt Nam
         type: observance
       07-27:
@@ -90,43 +90,43 @@ holidays:
       08-19:
         name:
           en: August Revolution Commemoration Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Augustirevolutionens minnesdag
           vi: Ngày cách mạng Tháng Tám
         type: observance
       10-10:
         name:
           en: Capital Liberation Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Huvudstadens befrielsedag
           vi: Ngày giải phóng Thủ Đô
         type: observance
       10-20:
         name:
           en: Vietnamese Women's Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Vietnamesiska kvinnodagen
           vi: Ngày Phụ nữ Việt Nam
         type: observance
       11-20:
         name:
           en: Vietnamese Teacher's Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Vietnamesiska lärar-dagen
           vi: Ngày Nhà giáo Việt Nam
         type: observance
       12-22:
         name:
           en: National Defence Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Nationella försvarsdagen
           vi: Ngày hội Quốc phòng Toàn dân
         type: observance
       vietnamese 1-0-5:
         name:
           en: Victory of Ngọc Hồi-Đống Đa
-          sv: MANUAL OPERATION REQUIRED
+          sv: Ngọc Hồi-Đống Đas seger
           vi: Chiến thắng Ngọc Hồi - Đống Đa
         type: observance
       vietnamese 1-0-15:
         name:
           en: Lantern Festival
-          sv: MANUAL OPERATION REQUIRED
+          sv: Lantern Festival
           vi: Tết Nguyên Tiêu
         type: observance
       vietnamese 4-0-15:
