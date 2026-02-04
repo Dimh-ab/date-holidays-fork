@@ -38,12 +38,12 @@ holidays:
       06-24:
         name:
           en: St. John's Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Johannesdagen
           lt: Joninės, Rasos
       07-06:
         name:
           en: Statehood Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Statsdagen
           lt: Valstybės diena
       08-15:
         _name: 08-15

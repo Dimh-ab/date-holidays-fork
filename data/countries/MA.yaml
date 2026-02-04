@@ -46,19 +46,19 @@ holidays:
           fr: Fête de la révolution du roi et du peuple
           ar: "ثورة الملك والشعب"
           en: Anniversary of the Revolution of the King and the People
-          sv: MANUAL OPERATION REQUIRED
+          sv: Årsdagen av kungens och folkets revolution
       08-21:
         name:
           fr: Journée de la jeunesse
           ar: "عيد الشباب"
           en: Youth Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Ungdomsdagen
       11-06:
         name:
           fr: La Marche verte
           ar: "المسيرة الخضراء"
           en: Anniversary of the Green March
-          sv: MANUAL OPERATION REQUIRED
+          sv: La Marcha verde
       11-18:
         _name: Independence Day
         name:
