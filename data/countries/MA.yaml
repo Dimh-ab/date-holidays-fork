@@ -26,7 +26,7 @@ holidays:
           fr: Manifeste de l'indépendance
           ar: "ذكرى تقديم وثيقة الاستقلال"
           en: Anniversary of the Independence Manifesto
-          sv: MANUAL OPERATION REQUIRED
+          sv: Årsdagen av självständighetsmanifestet
       05-01:
         _name: 05-01
       07-30:
@@ -34,13 +34,13 @@ holidays:
           fr: Fête du trône
           ar: "عيد العرش"
           en: Feast of the Throne
-          sv: MANUAL OPERATION REQUIRED
+          sv: Tronfesten
       08-14:
         name:
           fr: Journée de Oued Ed-Dahab
           ar: "يوم وادي الذهب"
           en: Anniversary of the Recovery Oued Ed-Dahab
-          sv: MANUAL OPERATION REQUIRED
+          sv: Årsdagen av återhämtningen Oued Ed-Dahab
       08-20:
         name:
           fr: Fête de la révolution du roi et du peuple
