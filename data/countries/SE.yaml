@@ -302,7 +302,7 @@ holidays:
           sv: Kaffets dag
           en: National Coffee Day
         type: observance
-      09-29:
+      09-29 00:01:
         name:
           sv: Resandefolkets högtidsdag
           en: Traveller People's Day
