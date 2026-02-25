@@ -129,6 +129,11 @@ holidays:
         type: observance
       04-01:
         _name: 04-01
+      04-02:
+        name:
+          en: Passover (Pesach)
+          sv: Pesach (Judiska påsken)
+        type: observance
       # @source https://sv.wikipedia.org/wiki/Morot
       04-04:
         name:
@@ -181,6 +186,11 @@ holidays:
         name:
           sv: Tunnbrödets dag
           en: Flatbread Day
+        type: observance
+      05-22:
+        name:
+          en: Shavuot (Feast of Weeks)
+          sv: Shavout (Veckofesten)
         type: observance
       # @source https://www.kungsornen.se/tips-tricks/teman-bakning/muffinsdagen/
       05-27:
@@ -290,11 +300,31 @@ holidays:
           sv: Köttbullens dag
           en: Meatball Day
         type: observance
+      09-12:
+        name:
+          en: Rosh Hashanah (Yom Teruah)
+          sv: Rosh Hashana
+        type: observance
+      09-13:
+        name:
+          en: Rosh Hashanah (Day 2)
+          sv: Rosh Hashana
+        type: observance
+      09-21:
+        name:
+          en: Day of Atonement (Yom Kippur)
+          sv: Jom Kippur
+        type: observance
       # @source https://svensktradgard.se/aktiviteter/applets-dag/
       09-25:
         name:
           sv: Äpplets dag
           en: Apple Day
+        type: observance
+      09-26:
+        name:
+          en: Feast of Tabernacles (Sukkot)
+          sv: Sukkot (Lövhyddohögtiden)
         type: observance
       # @source https://sv.wikipedia.org/wiki/Internationella_kaffedagen
       09-29:
@@ -404,6 +434,11 @@ holidays:
         name:
           sv: Kåldolmens dag
           en: Day of the Cabbage Roll
+        type: observance
+      12-05:
+        name:
+          en: Hanukkah
+          sv: Chanukka (Ljusfesten)
         type: observance
       # @source https://sv.wikipedia.org/wiki/Pepparkaka
       12-09:
