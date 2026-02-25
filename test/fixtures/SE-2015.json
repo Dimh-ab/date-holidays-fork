@@ -270,6 +270,15 @@
     "_weekday": "Fri"
   },
   {
+    "date": "2015-04-04 00:00:00 -0600",
+    "start": "2015-04-03T16:00:00.000Z",
+    "end": "2015-04-04T16:00:00.000Z",
+    "name": "Pesach (Judiska påsken)",
+    "type": "observance",
+    "rule": "15 Nisan",
+    "_weekday": "Sat"
+  },
+  {
     "date": "2015-04-04 00:00:00",
     "start": "2015-04-03T22:00:00.000Z",
     "end": "2015-04-04T22:00:00.000Z",
@@ -385,6 +394,15 @@
     "type": "observance",
     "rule": "easter 48",
     "_weekday": "Sat"
+  },
+  {
+    "date": "2015-05-24 00:00:00 -0600",
+    "start": "2015-05-23T16:00:00.000Z",
+    "end": "2015-05-24T16:00:00.000Z",
+    "name": "Shavout (Veckofesten)",
+    "type": "observance",
+    "rule": "6 Sivan",
+    "_weekday": "Sun"
   },
   {
     "date": "2015-05-24 00:00:00",
@@ -558,6 +576,33 @@
     "_weekday": "Sun"
   },
   {
+    "date": "2015-09-14 00:00:00 -0600",
+    "start": "2015-09-13T16:00:00.000Z",
+    "end": "2015-09-14T16:00:00.000Z",
+    "name": "Rosh Hashana",
+    "type": "observance",
+    "rule": "1 Tishrei",
+    "_weekday": "Mon"
+  },
+  {
+    "date": "2015-09-15 00:00:00 -0600",
+    "start": "2015-09-14T16:00:00.000Z",
+    "end": "2015-09-15T16:00:00.000Z",
+    "name": "Rosh Hashana",
+    "type": "observance",
+    "rule": "2 Tishrei",
+    "_weekday": "Tue"
+  },
+  {
+    "date": "2015-09-23 00:00:00 -0600",
+    "start": "2015-09-22T16:00:00.000Z",
+    "end": "2015-09-23T16:00:00.000Z",
+    "name": "Jom Kippur",
+    "type": "observance",
+    "rule": "10 Tishrei",
+    "_weekday": "Wed"
+  },
+  {
     "date": "2015-09-25 00:00:00",
     "start": "2015-09-24T22:00:00.000Z",
     "end": "2015-09-25T22:00:00.000Z",
@@ -565,6 +610,15 @@
     "type": "observance",
     "rule": "09-25",
     "_weekday": "Fri"
+  },
+  {
+    "date": "2015-09-28 00:00:00 -0600",
+    "start": "2015-09-27T16:00:00.000Z",
+    "end": "2015-09-28T16:00:00.000Z",
+    "name": "Sukkot (Lövhyddohögtiden)",
+    "type": "observance",
+    "rule": "15 Tishrei",
+    "_weekday": "Mon"
   },
   {
     "date": "2015-09-29 00:00:00",
@@ -744,6 +798,15 @@
     "name": "Kåldolmens dag",
     "type": "observance",
     "rule": "11-30",
+    "_weekday": "Mon"
+  },
+  {
+    "date": "2015-12-07 00:00:00 -0600",
+    "start": "2015-12-06T17:00:00.000Z",
+    "end": "2015-12-14T17:00:00.000Z",
+    "name": "Chanukka (Ljusfesten)",
+    "type": "observance",
+    "rule": "25 Kislev P8D",
     "_weekday": "Mon"
   },
   {

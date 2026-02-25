@@ -288,6 +288,15 @@
     "_weekday": "Fri"
   },
   {
+    "date": "2019-04-20 00:00:00 -0600",
+    "start": "2019-04-19T16:00:00.000Z",
+    "end": "2019-04-20T16:00:00.000Z",
+    "name": "Pesach (Judiska påsken)",
+    "type": "observance",
+    "rule": "15 Nisan",
+    "_weekday": "Sat"
+  },
+  {
     "date": "2019-04-20 00:00:00",
     "start": "2019-04-19T22:00:00.000Z",
     "end": "2019-04-20T22:00:00.000Z",
@@ -430,6 +439,15 @@
     "type": "observance",
     "rule": "easter 48",
     "_weekday": "Sat"
+  },
+  {
+    "date": "2019-06-09 00:00:00 -0600",
+    "start": "2019-06-08T16:00:00.000Z",
+    "end": "2019-06-09T16:00:00.000Z",
+    "name": "Shavout (Veckofesten)",
+    "type": "observance",
+    "rule": "6 Sivan",
+    "_weekday": "Sun"
   },
   {
     "date": "2019-06-09 00:00:00",
@@ -585,6 +603,24 @@
     "_weekday": "Sun"
   },
   {
+    "date": "2019-09-30 00:00:00 -0600",
+    "start": "2019-09-29T16:00:00.000Z",
+    "end": "2019-09-30T16:00:00.000Z",
+    "name": "Rosh Hashana",
+    "type": "observance",
+    "rule": "1 Tishrei",
+    "_weekday": "Mon"
+  },
+  {
+    "date": "2019-10-01 00:00:00 -0600",
+    "start": "2019-09-30T16:00:00.000Z",
+    "end": "2019-10-01T16:00:00.000Z",
+    "name": "Rosh Hashana",
+    "type": "observance",
+    "rule": "2 Tishrei",
+    "_weekday": "Tue"
+  },
+  {
     "date": "2019-10-01 00:00:00",
     "start": "2019-09-30T22:00:00.000Z",
     "end": "2019-10-01T22:00:00.000Z",
@@ -603,6 +639,15 @@
     "_weekday": "Fri"
   },
   {
+    "date": "2019-10-09 00:00:00 -0600",
+    "start": "2019-10-08T16:00:00.000Z",
+    "end": "2019-10-09T16:00:00.000Z",
+    "name": "Jom Kippur",
+    "type": "observance",
+    "rule": "10 Tishrei",
+    "_weekday": "Wed"
+  },
+  {
     "date": "2019-10-10 00:00:00",
     "start": "2019-10-09T22:00:00.000Z",
     "end": "2019-10-10T22:00:00.000Z",
@@ -610,6 +655,15 @@
     "type": "observance",
     "rule": "10-10",
     "_weekday": "Thu"
+  },
+  {
+    "date": "2019-10-14 00:00:00 -0600",
+    "start": "2019-10-13T16:00:00.000Z",
+    "end": "2019-10-14T16:00:00.000Z",
+    "name": "Sukkot (Lövhyddohögtiden)",
+    "type": "observance",
+    "rule": "15 Tishrei",
+    "_weekday": "Mon"
   },
   {
     "date": "2019-10-14 00:00:00",
@@ -772,6 +826,15 @@
     "type": "observance",
     "rule": "12-13",
     "_weekday": "Fri"
+  },
+  {
+    "date": "2019-12-23 00:00:00 -0600",
+    "start": "2019-12-22T17:00:00.000Z",
+    "end": "2019-12-30T17:00:00.000Z",
+    "name": "Chanukka (Ljusfesten)",
+    "type": "observance",
+    "rule": "25 Kislev P8D",
+    "_weekday": "Mon"
   },
   {
     "date": "2019-12-24 00:00:00",

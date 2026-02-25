@@ -324,6 +324,15 @@
     "_weekday": "Wed"
   },
   {
+    "date": "2016-04-23 00:00:00 -0600",
+    "start": "2016-04-22T16:00:00.000Z",
+    "end": "2016-04-23T16:00:00.000Z",
+    "name": "Pesach (Judiska påsken)",
+    "type": "observance",
+    "rule": "15 Nisan",
+    "_weekday": "Sat"
+  },
+  {
     "date": "2016-04-30 12:00:00",
     "start": "2016-04-30T10:00:00.000Z",
     "end": "2016-04-30T22:00:00.000Z",
@@ -448,6 +457,15 @@
     "type": "observance",
     "rule": "06-06 00:01",
     "_weekday": "Mon"
+  },
+  {
+    "date": "2016-06-12 00:00:00 -0600",
+    "start": "2016-06-11T16:00:00.000Z",
+    "end": "2016-06-12T16:00:00.000Z",
+    "name": "Shavout (Veckofesten)",
+    "type": "observance",
+    "rule": "6 Sivan",
+    "_weekday": "Sun"
   },
   {
     "date": "2016-06-24 00:00:00",
@@ -594,6 +612,24 @@
     "_weekday": "Sat"
   },
   {
+    "date": "2016-10-03 00:00:00 -0600",
+    "start": "2016-10-02T16:00:00.000Z",
+    "end": "2016-10-03T16:00:00.000Z",
+    "name": "Rosh Hashana",
+    "type": "observance",
+    "rule": "1 Tishrei",
+    "_weekday": "Mon"
+  },
+  {
+    "date": "2016-10-04 00:00:00 -0600",
+    "start": "2016-10-03T16:00:00.000Z",
+    "end": "2016-10-04T16:00:00.000Z",
+    "name": "Rosh Hashana",
+    "type": "observance",
+    "rule": "2 Tishrei",
+    "_weekday": "Tue"
+  },
+  {
     "date": "2016-10-04 00:00:00",
     "start": "2016-10-03T22:00:00.000Z",
     "end": "2016-10-04T22:00:00.000Z",
@@ -612,6 +648,15 @@
     "_weekday": "Mon"
   },
   {
+    "date": "2016-10-12 00:00:00 -0600",
+    "start": "2016-10-11T16:00:00.000Z",
+    "end": "2016-10-12T16:00:00.000Z",
+    "name": "Jom Kippur",
+    "type": "observance",
+    "rule": "10 Tishrei",
+    "_weekday": "Wed"
+  },
+  {
     "date": "2016-10-14 00:00:00",
     "start": "2016-10-13T22:00:00.000Z",
     "end": "2016-10-14T22:00:00.000Z",
@@ -619,6 +664,15 @@
     "type": "observance",
     "rule": "10-14",
     "_weekday": "Fri"
+  },
+  {
+    "date": "2016-10-17 00:00:00 -0600",
+    "start": "2016-10-16T16:00:00.000Z",
+    "end": "2016-10-17T16:00:00.000Z",
+    "name": "Sukkot (Lövhyddohögtiden)",
+    "type": "observance",
+    "rule": "15 Tishrei",
+    "_weekday": "Mon"
   },
   {
     "date": "2016-10-20 00:00:00",
@@ -781,6 +835,15 @@
     "type": "bank",
     "rule": "12-24",
     "_weekday": "Sat"
+  },
+  {
+    "date": "2016-12-25 00:00:00 -0600",
+    "start": "2016-12-24T17:00:00.000Z",
+    "end": "2017-01-01T17:00:00.000Z",
+    "name": "Chanukka (Ljusfesten)",
+    "type": "observance",
+    "rule": "25 Kislev P8D",
+    "_weekday": "Sun"
   },
   {
     "date": "2016-12-25 00:00:00",
