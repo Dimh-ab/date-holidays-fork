@@ -45,6 +45,15 @@
     "_weekday": "Mon"
   },
   {
+    "date": "2020-01-14 00:00:00",
+    "start": "2020-01-13T23:00:00.000Z",
+    "end": "2020-01-14T23:00:00.000Z",
+    "name": "Fullkornets dag",
+    "type": "observance",
+    "rule": "01-14",
+    "_weekday": "Tue"
+  },
+  {
     "date": "2020-01-19 00:00:00",
     "start": "2020-01-18T23:00:00.000Z",
     "end": "2020-01-19T23:00:00.000Z",
@@ -117,6 +126,15 @@
     "_weekday": "Mon"
   },
   {
+    "date": "2020-02-24 00:00:00",
+    "start": "2020-02-23T23:00:00.000Z",
+    "end": "2020-02-24T23:00:00.000Z",
+    "name": "Sverigefinnarnas dag",
+    "type": "observance",
+    "rule": "02-24",
+    "_weekday": "Mon"
+  },
+  {
     "date": "2020-02-25 00:00:00",
     "start": "2020-02-24T23:00:00.000Z",
     "end": "2020-02-25T23:00:00.000Z",
@@ -133,6 +151,15 @@
     "type": "public",
     "rule": "easter -46",
     "_weekday": "Wed"
+  },
+  {
+    "date": "2020-02-27 00:00:00",
+    "start": "2020-02-26T23:00:00.000Z",
+    "end": "2020-02-27T23:00:00.000Z",
+    "name": "Meänkielidagen",
+    "type": "observance",
+    "rule": "02-27",
+    "_weekday": "Thu"
   },
   {
     "date": "2020-03-01 00:00:00",
@@ -180,6 +207,15 @@
     "_weekday": "Thu"
   },
   {
+    "date": "2020-03-16 00:00:00",
+    "start": "2020-03-15T23:00:00.000Z",
+    "end": "2020-03-16T23:00:00.000Z",
+    "name": "Kvänfolkets dag",
+    "type": "observance",
+    "rule": "03-16",
+    "_weekday": "Mon"
+  },
+  {
     "date": "2020-03-25 00:00:00",
     "start": "2020-03-24T23:00:00.000Z",
     "end": "2020-03-25T23:00:00.000Z",
@@ -223,6 +259,15 @@
     "type": "public",
     "rule": "easter -7",
     "_weekday": "Sun"
+  },
+  {
+    "date": "2020-04-08 00:00:00",
+    "start": "2020-04-07T22:00:00.000Z",
+    "end": "2020-04-08T22:00:00.000Z",
+    "name": "Romernas internationella dag",
+    "type": "observance",
+    "rule": "04-08",
+    "_weekday": "Wed"
   },
   {
     "date": "2020-04-09 00:00:00",
@@ -441,6 +486,15 @@
     "_weekday": "Mon"
   },
   {
+    "date": "2020-07-15 00:00:00",
+    "start": "2020-07-14T22:00:00.000Z",
+    "end": "2020-07-15T22:00:00.000Z",
+    "name": "Tornedalingarnas dag",
+    "type": "observance",
+    "rule": "07-15",
+    "_weekday": "Wed"
+  },
+  {
     "date": "2020-07-29 00:00:00",
     "start": "2020-07-28T22:00:00.000Z",
     "end": "2020-07-29T22:00:00.000Z",
@@ -519,6 +573,15 @@
     "name": "Kaffets dag",
     "type": "observance",
     "rule": "09-29",
+    "_weekday": "Tue"
+  },
+  {
+    "date": "2020-09-29 00:01:00",
+    "start": "2020-09-28T22:01:00.000Z",
+    "end": "2020-09-29T22:00:00.000Z",
+    "name": "Resandefolkets högtidsdag",
+    "type": "observance",
+    "rule": "09-29 00:01",
     "_weekday": "Tue"
   },
   {
