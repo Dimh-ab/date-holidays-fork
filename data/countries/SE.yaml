@@ -31,6 +31,11 @@ holidays:
           sv: Tjugondag Knut
           en: Saint Knut's Day
         type: observance
+      01-14:
+        name:
+          sv: Fullkornets dag
+          en: Whole Grain Day
+        type: observance
       # @source https://www.arla.se/artiklar/temadagar-kalender-med-matdagar/
       01-19:
         name:
@@ -56,6 +61,16 @@ holidays:
         name:
           sv: Baljväxtens dag
           en: World Pulses Day
+        type: observance
+      02-24:
+        name:
+          sv: Sverigefinnarnas dag
+          en: Sweden Finns' Day
+        type: observance
+      02-27:
+        name:
+          sv: Meänkielidagen
+          en: Meänkieli Day
         type: observance
       02-14:
         _name: 02-14
@@ -95,6 +110,11 @@ holidays:
           sv: Alla Korvars Dag
           en: All Sausage Day
         type: observance
+      03-16:
+        name:
+          sv: Kvänfolkets dag
+          en: Kven People's Day
+        type: observance
       03-25:
         name:
           sv: Jungfru Marie bebådelsedag
@@ -114,6 +134,11 @@ holidays:
         name:
           sv: Morotens dag
           en: Carrot Day
+        type: observance
+      04-08:
+        name:
+          sv: Romernas internationella dag
+          en: International Roma Day
         type: observance
       # @source https://sv.wikipedia.org/wiki/Amalia_Eriksson
       04-20:
@@ -218,6 +243,11 @@ holidays:
           sv: Paltdagen
           en: Palt Day
         type: observance
+      07-15:
+        name:
+          sv: Tornedalingarnas dag
+          en: Tornedalians' Day
+        type: observance
       # @source https://www.arla.se/artiklar/temadagar-kalender-med-matdagar/
       07-29:
         name:
@@ -271,6 +301,11 @@ holidays:
         name:
           sv: Kaffets dag
           en: National Coffee Day
+        type: observance
+      09-29:
+        name:
+          sv: Resandefolkets högtidsdag
+          en: Traveller People's Day
         type: observance
       # @source https://sv.wikipedia.org/wiki/Vegetariska_v%C3%A4rldsdagen
       10-01:

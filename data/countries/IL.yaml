@@ -15,7 +15,7 @@ holidays:
         name:
           he: ראש השנה
           en: Rosh Hashanah (Yom Teruah)
-          sv: Rosh hashana
+          sv: Rosh Hashana
       2 Tishrei:
         name:
           he: ראש השנה יום 2
@@ -31,12 +31,12 @@ holidays:
         name:
           he: יום כיפור
           en: Day of Atonement (Yom Kippur)
-          sv: Jom kippur
+          sv: Jom Kippur
       15 Tishrei:
         name:
           he: סוכות
           en: Feast of Tabernacles (Sukkot)
-          sv: Sukkot
+          sv: Sukkot (Lövhyddohögtiden)
       16 Tishrei P6D:
         name:
           he: חול המועד סוכות
@@ -73,7 +73,7 @@ holidays:
       25 Kislev P8D:
         name:
           en: Hanukkah
-          sv: Chanukka
+          sv: Chanukka (Ljusfesten)
           he: חנוכה
         type: school
       10 Tevet:
@@ -111,7 +111,7 @@ holidays:
       15 Nisan:
         name:
           en: Passover (Pesach)
-          sv: MANUAL OPERATION REQUIRED
+          sv: Pesach (Judiska påsken)
           he: פסח
       16 Nisan P5D:
         name:
@@ -173,7 +173,7 @@ holidays:
       6 Sivan:
         name:
           en: Shavuot (Feast of Weeks)
-          sv: Shavuot
+          sv: Shavout (Veckofesten)
           he: שבועות
       17 Tamuz if Saturday then next Sunday:
         name:
