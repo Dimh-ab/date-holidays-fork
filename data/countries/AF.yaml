@@ -19,6 +19,7 @@ holidays:
         name:
           en: Nowruz
           sv: Nouruz
+      # @source https://en.wikipedia.org/wiki/Mujahideen_Victory_Day
       04-28:
         name:
           en: Mujahideen Victory Day
@@ -29,6 +30,7 @@ holidays:
         name:
           en: Afghan Jihad Victory Day
           sv: Afghan Jihad Victory Day
+      # @source https://en.wikipedia.org/wiki/Afghan_Independence_Day
       08-19:
         name:
           en: Afghan Independence Day

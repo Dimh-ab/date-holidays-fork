@@ -399,6 +399,12 @@ holidays:
           sv: Raggmunkens dag
           en: Potato Pancake Day
         type: observance
+      # @source https://sv.wikipedia.org/wiki/F%C3%B6rsta_s%C3%B6ndagen_i_advent
+      11-29:
+        name:
+          sv: Första söndagen i advent
+          en: First Sunday of Advent
+        type: observance
       # @source https://sv.wikipedia.org/wiki/K%C3%A5ldolmens_dag
       11-30:
         name:
