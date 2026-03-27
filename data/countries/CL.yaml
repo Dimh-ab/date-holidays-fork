@@ -37,7 +37,7 @@ holidays:
       june solstice in America/Santiago since 2022:
         name:
           en: Indigenous People's Day
-          sv: Indigenous People's Day
+          sv: Urfolkens dag
           es: Día de los Pueblos Indígenas
       06-29 if tuesday, wednesday, thursday then previous monday if friday then next monday:
         _name: 06-29
