@@ -40,7 +40,7 @@ holidays:
       1st monday before 06-01:
         name:
           en: Spring bank holiday
-          sv: Bankfridag
+          sv: Vårhelgdag
         disable:
           - "2022-05-30" # was moved to 2022-06-02
         enable:
