@@ -23,6 +23,7 @@ holidays:
           fr: Fête de la Révolution et de la Jeunesse
           ar: "عيد الثورة و الشباب"
           en: Fête de la Révolution et de la Jeunesse
+          sv: Revolutionens och ungdomens dag
       03-20:
         name:
           fr: Fête de l'indépendance
@@ -33,6 +34,7 @@ holidays:
           fr: Journée des Martyrs
           ar: "عيد الشهداء"
           en: Journée des Martyrs
+          sv: Martyrernas dag
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
       1 Muharram:
@@ -48,16 +50,19 @@ holidays:
           fr: Fête de la République
           ar: "عيد الجمهورية"
           en: Fête de la République
+          sv: Republikens dag
       08-13:
         name:
           fr: Fête de la Femme et de la Famille
           ar: "عيد المرأة"
           en: Fête de la Femme et de la Famille
+          sv: Kvinnodagen
       10-15:
         name:
           fr: Fête de l'Évacuation
           ar: "عيد الجلاء"
           en: Fête de l'Évacuation
+          sv: Evakueringsdagen
 #    states:
 #      '11':
 #        name: Tunis
