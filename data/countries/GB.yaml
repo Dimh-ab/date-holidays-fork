@@ -99,7 +99,7 @@ holidays:
           04-23:
             name:
               en: "St George's Day"
-              sv: Sankt Georgs dag
+              sv: St George's Day
             type: observance
           1st monday before 09-01:
             name:
@@ -504,7 +504,7 @@ holidays:
           11-30:
             name:
               en: St Andrew’s Day
-              sv: Sankt Andreas dag
+              sv: St Andrew´s Day
         # regions:
         # ABD:
         #   name: Aberdeenshire
@@ -577,7 +577,7 @@ holidays:
           03-01:
             name:
               en: "St David's Day"
-              sv: Sankt Davids dag
+              sv: St David´s Day
             type: observance
           1st monday before 09-01:
             name:
