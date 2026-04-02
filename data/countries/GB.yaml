@@ -95,6 +95,12 @@ holidays:
       ENG:
         name: England
         days:
+          # @source https://en.wikipedia.org/wiki/British_National_Day
+          04-23:
+            name:
+              en: "St George's Day"
+              sv: Sankt Georgs dag
+            type: observance
           1st monday before 09-01:
             name:
               en: Summer bank holiday
@@ -567,6 +573,12 @@ holidays:
       WLS:
         name: Wales
         days:
+          # @source https://en.wikipedia.org/wiki/Saint_David%27s_Day
+          03-01:
+            name:
+              en: "St David's Day"
+              sv: Sankt Davids dag
+            type: observance
           1st monday before 09-01:
             name:
               en: Summer bank holiday
