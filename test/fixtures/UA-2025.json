@@ -77,7 +77,7 @@
     "end": "2025-06-28T21:00:00.000Z",
     "name": "День Конституції",
     "type": "public",
-    "rule": "06-28 and if saturday, sunday then next monday",
+    "rule": "06-28",
     "_weekday": "Sat"
   },
   {
@@ -87,7 +87,7 @@
     "name": "День Конституції (замінити день)",
     "type": "public",
     "substitute": true,
-    "rule": "06-28 and if saturday, sunday then next monday",
+    "rule": "substitutes 06-28 if saturday, sunday then next monday",
     "_weekday": "Mon"
   },
   {

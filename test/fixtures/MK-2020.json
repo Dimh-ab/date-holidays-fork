@@ -127,9 +127,9 @@
     "date": "2020-05-24 00:00:00",
     "start": "2020-05-23T22:00:00.000Z",
     "end": "2020-05-24T22:00:00.000Z",
-    "name": "Св. Кирил и Методиј",
+    "name": "Saints Cyril and Methodius Day",
     "type": "public",
-    "rule": "05-24 and if sunday then next monday",
+    "rule": "05-24",
     "_weekday": "Sun"
   },
   {
@@ -149,7 +149,7 @@
     "name": "Св. Кирил и Методиј (заменет ден)",
     "type": "public",
     "substitute": true,
-    "rule": "05-24 and if sunday then next monday",
+    "rule": "substitutes 05-24 if sunday then next monday",
     "_weekday": "Mon"
   },
   {
@@ -186,9 +186,9 @@
     "date": "2020-08-02 00:00:00",
     "start": "2020-08-01T22:00:00.000Z",
     "end": "2020-08-02T22:00:00.000Z",
-    "name": "Ден на Републиката",
+    "name": "Day of the Republic",
     "type": "public",
-    "rule": "08-02 and if sunday then next monday",
+    "rule": "08-02",
     "_weekday": "Sun"
   },
   {
@@ -198,7 +198,7 @@
     "name": "Ден на Републиката (заменет ден)",
     "type": "public",
     "substitute": true,
-    "rule": "08-02 and if sunday then next monday",
+    "rule": "substitutes 08-02 if sunday then next monday",
     "_weekday": "Mon"
   },
   {
@@ -244,9 +244,9 @@
     "date": "2020-10-11 00:00:00",
     "start": "2020-10-10T22:00:00.000Z",
     "end": "2020-10-11T22:00:00.000Z",
-    "name": "Ден на востанието",
+    "name": "Revolution Day",
     "type": "public",
-    "rule": "10-11 and if sunday then next monday",
+    "rule": "10-11",
     "_weekday": "Sun"
   },
   {
@@ -256,7 +256,7 @@
     "name": "Ден на востанието (заменет ден)",
     "type": "public",
     "substitute": true,
-    "rule": "10-11 and if sunday then next monday",
+    "rule": "substitutes 10-11 if sunday then next monday",
     "_weekday": "Mon"
   },
   {

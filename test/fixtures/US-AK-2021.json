@@ -123,7 +123,7 @@
     "end": "2021-07-05T08:00:00.000Z",
     "name": "Independence Day",
     "type": "public",
-    "rule": "07-04 and if sunday then next monday if saturday then previous friday",
+    "rule": "07-04",
     "_weekday": "Sun"
   },
   {
@@ -133,7 +133,7 @@
     "name": "Independence Day (substitute day)",
     "type": "public",
     "substitute": true,
-    "rule": "07-04 and if sunday then next monday if saturday then previous friday",
+    "rule": "substitutes 07-04 if sunday then next monday if saturday then previous friday",
     "_weekday": "Mon"
   },
   {

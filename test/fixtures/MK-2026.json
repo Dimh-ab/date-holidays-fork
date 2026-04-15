@@ -124,6 +124,15 @@
     "_weekday": "Sat"
   },
   {
+    "date": "2026-05-24 00:00:00",
+    "start": "2026-05-23T22:00:00.000Z",
+    "end": "2026-05-24T22:00:00.000Z",
+    "name": "Saints Cyril and Methodius Day",
+    "type": "public",
+    "rule": "05-24",
+    "_weekday": "Sun"
+  },
+  {
     "date": "2026-05-27 00:00:00 -0600",
     "start": "2026-05-26T16:00:00.000Z",
     "end": "2026-05-27T16:00:00.000Z",
@@ -151,6 +160,15 @@
     "type": "optional",
     "note": "Orthodox believers",
     "rule": "orthodox 49",
+    "_weekday": "Sun"
+  },
+  {
+    "date": "2026-08-02 00:00:00",
+    "start": "2026-08-01T22:00:00.000Z",
+    "end": "2026-08-02T22:00:00.000Z",
+    "name": "Day of the Republic",
+    "type": "public",
+    "rule": "08-02",
     "_weekday": "Sun"
   },
   {
@@ -191,6 +209,15 @@
     "note": "For Members of the Bosniak community.",
     "rule": "09-28",
     "_weekday": "Mon"
+  },
+  {
+    "date": "2026-10-11 00:00:00",
+    "start": "2026-10-10T22:00:00.000Z",
+    "end": "2026-10-11T22:00:00.000Z",
+    "name": "Revolution Day",
+    "type": "public",
+    "rule": "10-11",
+    "_weekday": "Sun"
   },
   {
     "date": "2026-10-23 00:00:00",
