@@ -76,11 +76,7 @@ holidays:
           pt: Dia de Eleição
           en: Election Day
           sv: Valdag
-      1st sunday before 11-01 in even years:
-        name:
-          pt: Dia de Eleição
-          en: Election Day
-          sv: Valdag
+      1st sunday before 11-01 in even years: false
       11-02:
         _name: 11-02
       11-15:

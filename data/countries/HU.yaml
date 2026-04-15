@@ -20,12 +20,7 @@ holidays:
           en: Memorial Day of the Republic
           sv: Memorial Day
         type: observance
-      02-25:
-        name:
-          hu: A kommunista diktatúrák áldozatainak emléknapja
-          en: Memorial Day for the Victims of the Communist Dictatorships
-          sv: Minnesdagen för kommunismens offer
-        type: observance
+      02-25: false
       03-08:
         _name: 03-08
         type: observance

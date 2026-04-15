@@ -25,11 +25,7 @@ holidays:
           sv: "Pakistandagen"
       05-01:
         _name: 05-01
-      05-28:
-        name:
-          ur: "یوم تکبیر"
-          en: "Youm-e-Takbeer"
-          sv: "Youm-e-Takbeer"
+      05-28: false
       08-14:
         name:
           ur: "یوم آزادی"

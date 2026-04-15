@@ -27,12 +27,7 @@ holidays:
           en: League of Lezhë day
           sv: Lezhaförbundet
         type: observance
-      03-07:
-        name:
-          sq: Dita e Mësuesit
-          en: Teacher's Day
-          sv: Teacher's Day
-        type: observance
+      03-07: false
       03-08:
         _name: Mothers Day
         type: observance

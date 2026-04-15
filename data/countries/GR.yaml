@@ -46,6 +46,8 @@ holidays:
         _name: National Holiday
         name:
           el: Επέτειος του Όχι
+          en: Ohi Day
+          sv: Ochidagen
       12-25:
         _name: 12-25
       12-26:

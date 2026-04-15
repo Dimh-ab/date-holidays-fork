@@ -13,11 +13,7 @@ holidays:
     days:
       01-01:
         _name: 01-01
-      01-02:
-        _name: 01-01
-        active:
-          - to: 1955
-          - from: 2017
+      01-02: false
       02-08:
         name:
           en: Prešeren Day, the Slovenian Cultural Holiday
@@ -56,13 +52,7 @@ holidays:
           sv: Första maj
         active:
           - from: 1949
-      05-02:
-        _name: 05-01
-        name:
-          en: Labour Day
-          sv: Första maj
-        active:
-          - from: 1949
+      05-02: false
       easter 49:
         _name: easter 49
       06-08:
@@ -100,14 +90,7 @@ holidays:
         type: observance
         active:
           - from: 2005
-      09-23:
-        name:
-          sl: Dan slovenskega športa
-          en: Slovenian Sports Day
-          sv: Slovenska sportens dag
-        type: observance
-        active:
-          - from: 2020
+      09-23: false
       10-25:
         name:
           sl: Dan suverenosti

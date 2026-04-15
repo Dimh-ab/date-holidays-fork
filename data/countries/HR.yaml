@@ -139,10 +139,7 @@ holidays:
         _name: 1 Shawwal
         type: optional
         note: Muslim believers
-      1 Tishrei:
-        _name: 10 Tishrei
-        type: optional
-        note: Jewish believers
+      1 Tishrei: false
       10 Tishrei:
         _name: 10 Tishrei
         type: optional

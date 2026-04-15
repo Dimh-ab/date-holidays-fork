@@ -20,12 +20,7 @@ holidays:
           en: New Year
           sv: Nyår
         substitute: true
-      01-02 and if saturday, sunday then next monday:
-        _name: 01-01
-        name:
-          en: New Year
-          sv: Nyår
-        substitute: true
+      01-02 and if saturday, sunday then next monday: false
       julian 12-25 and if saturday, sunday then next monday prior to 2023:
         _name: julian 12-25
         substitute: true
@@ -33,8 +28,12 @@ holidays:
         _name: 03-08
       orthodox and if sunday then next monday:
         _name: orthodox
+        disable:
+          - 2026-04-13
       orthodox 49 and if sunday then next monday:
         _name: easter 49
+        disable:
+          - 2026-06-01
       05-01 and if saturday, sunday then next tuesday:
         _name: 05-01
         substitute: true

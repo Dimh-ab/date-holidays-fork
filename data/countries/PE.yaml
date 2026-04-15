@@ -26,8 +26,7 @@ holidays:
         _name: 06-29
       07-28:
         _name: Independence Day
-      07-29:
-        _name: Independence Day
+      07-29: false
       08-30:
         name:
           en: Santa Rosa de Lima

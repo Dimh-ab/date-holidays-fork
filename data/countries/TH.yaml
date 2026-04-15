@@ -38,11 +38,7 @@ holidays:
           en: Coronation Day
           sv: Kröningsdagen
           th: วันฉัตรมงคล
-      06-03:
-        name:
-          en: Queen Suthida's Birthday
-          sv: Suthida
-          th: วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสุทิดา พัชรสุธาพิมลลักษณ พระบรมราชินี
+      06-03: false
       07-28:
         name:
           en: King's Birthday

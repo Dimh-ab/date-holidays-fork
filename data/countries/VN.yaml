@@ -42,33 +42,13 @@ holidays:
           en: National Day
           sv: Nationaldag
           vi: Quốc khánh
-      02-03:
-        name:
-          en: Communist Party of Viet Nam Foundation Anniversary
-          sv: Vietnams kommunistiska parti
-          vi: Ngày thành lập Đảng
-        type: observance
+      02-03: false
       03-08:
         _name: 03-08
         type: observance
-      04-21:
-        name:
-          en: Vietnam Book Day
-          sv: Vietnams bokdag
-          vi: Ngày Sách Việt Nam
-        type: observance
-      05-07:
-        name:
-          en: Dien Bien Phu Victory Day
-          sv: Điện Biên Phủ
-          vi: Ngày Chiến thắng Điện Biện Phủ
-        type: observance
-      05-19:
-        name:
-          en: President Ho Chi Minh's Birthday
-          sv: President Ho Chi Minh's födelsedag
-          vi: Ngày sinh Chủ tịch Hồ Chí Minh
-        type: observance
+      04-21: false
+      05-07: false
+      05-19: false
       06-01:
         name:
           en: International Children's Day
@@ -81,48 +61,23 @@ holidays:
           sv: Vietnamesiska familjedagen
           vi: Ngày Gia đình Việt Nam
         type: observance
-      07-27:
-        name:
-          en: Remembrance Day
-          sv: Stilleståndsdagen
-          vi: Ngày Thương Binh Liệt Sĩ
-        type: observance
-      08-19:
-        name:
-          en: August Revolution Commemoration Day
-          sv: Augustirevolutionens minnesdag
-          vi: Ngày cách mạng Tháng Tám
-        type: observance
-      10-10:
-        name:
-          en: Capital Liberation Day
-          sv: Huvudstadens befrielsedag
-          vi: Ngày giải phóng Thủ Đô
-        type: observance
+      07-27: false
+      08-19: false
+      10-10: false
       10-20:
         name:
           en: Vietnamese Women's Day
           sv: Vietnamesiska kvinnodagen
           vi: Ngày Phụ nữ Việt Nam
         type: observance
-      11-20:
-        name:
-          en: Vietnamese Teacher's Day
-          sv: Vietnamesiska lärar-dagen
-          vi: Ngày Nhà giáo Việt Nam
-        type: observance
+      11-20: false
       12-22:
         name:
           en: National Defence Day
           sv: Nationella försvarsdagen
           vi: Ngày hội Quốc phòng Toàn dân
         type: observance
-      vietnamese 1-0-5:
-        name:
-          en: Victory of Ngọc Hồi-Đống Đa
-          sv: Ngọc Hồi-Đống Đas seger
-          vi: Chiến thắng Ngọc Hồi - Đống Đa
-        type: observance
+      vietnamese 1-0-5: false
       vietnamese 1-0-15:
         name:
           en: Lantern Festival
@@ -135,24 +90,14 @@ holidays:
           sv: Buddhas födelsedag
           vi: Lễ Phật đản
         type: observance
-      vietnamese 5-0-5:
-        name:
-          en: Mid-year Festival
-          sv: Månfesten
-          vi: Tết Đoan ngọ
-        type: observance
+      vietnamese 5-0-5: false
       vietnamese 7-0-15:
         name:
           en: Ghost Festival
           sv: Spökfesten
           vi: Rằm Tháng Bảy, Vu Lan
         type: observance
-      vietnamese 8-0-15:
-        name:
-          en: Mid-Autumn Festival
-          sv: Månfesten
-          vi: Tết Trung thu
-        type: observance
+      vietnamese 8-0-15: false
       vietnamese 12-0-23:
         name:
           en: Kitchen guardians

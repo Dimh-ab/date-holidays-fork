@@ -32,21 +32,13 @@ holidays:
           fa: نوروز
           en: Nowruz
           sv: Nouruz
-      12 Farvardin:
-        name:
-          fa: روز جمهوری اسلامی
-          en: Islamic Republic Day
-          sv: Islamiska republikens dag
+      12 Farvardin: false
       13 Farvardin:
         name:
           fa: سیزده بدر
           en: Sizdah Bedar
           sv: Naturens dag
-      14 Khordad:
-        name:
-          fa: رﺣﻠﺖ اﻣﺎم ﺧﻤﯿﻨﯽ
-          en: Imam Khomeini's Demise
-          sv: Imamah
+      14 Khordad: false
       15 Khordad:
         name:
           fa: قیام ۱۵ خرداد
@@ -57,11 +49,7 @@ holidays:
           fa: انقلاب اسلامی پنجاه و هفت
           en: Anniversary of Islamic Revolution
           sv: Iranska revolutionen
-      29 Esfand:
-        name:
-          fa: ملی شدن صنعت نفت
-          en: Nationalization of the Iranian oil industry
-          sv: Nationaliseringen av oljeindustrin
+      29 Esfand: false
       9 Muharram:
         name:
           fa: ﺗﺎﺳﻮﻋﺎی ﺣﺴﯿﻨﯽ
@@ -77,11 +65,7 @@ holidays:
           fa: اربعین حسینی
           en: Arbaeen-e Hosseini
           sv: Arbaeen Hosseini
-      28 Safar:
-        name:
-          fa: رﺣﻠﺖ ﺣﻀﺮت رﺳﻮل اﮐﺮم صلّی الله علیه وآله و سلّم
-          en: Demise of Prophet Muhammad and Imam Hassan (Mujtaba)
-          sv: Imamah
+      28 Safar: false
       30 Safar:
         name:
           fa: ﺷﻬﺎدت ﺣﻀﺮت اﻣﺎم رﺿﺎ ﻋﻠﯿﻪاﻟﺴﻼم
@@ -129,11 +113,7 @@ holidays:
           fa: ﺑﻪ ﻣﻨﺎﺳﺒﺖ ﻋﯿﺪ ﺳﻌﯿﺪ ﻓﻄﺮ
           en: Holyday for Fetr Eeid
           sv: Eid al-Fitr
-      25 Shawwal:
-        name:
-          fa: ﺷﻬﺎدت ﺣﻀﺮت اﻣﺎم ﺟﻌﻔﺮ ﺻﺎدق ﻋﻠﯿﻪاﻟﺴﻼم
-          en: Martyrdom of Imam Jafar
-          sv: Imam
+      25 Shawwal: false
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
       18 Dhu al-Hijjah:

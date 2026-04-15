@@ -50,6 +50,12 @@ holidays:
         _name: easter 49
       easter 50:
         _name: easter 50
+      4th sunday before 12-25:
+        name:
+          da: 1. søndag i advent
+          en: First Sunday of Advent
+          sv: Första söndagen i advent
+        type: observance
       12-24:
         _name: 12-24
         type: observance

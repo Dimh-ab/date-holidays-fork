@@ -326,6 +326,11 @@ holidays:
           en: World Porridge Day
         type: observance
       # @source https://news.cision.com/se/swedavia-ab/r/arlanda-och-goteborg-landvetter-firar-rakmackans-dag,c3902187
+      10-09:
+        name:
+          sv: Den finlandssvenska matkulturdagen
+          en: Finland-Swedish Food Culture Day
+        type: observance
       10-14:
         name:
           sv: Räkmackans dag

@@ -112,20 +112,8 @@ holidays:
         type: optional
         note: Catholic believers
 
-      11-22:
-        name:
-          mk: Ден на Албанската азбука
-          en: Day of the Albanian Alphabet
-          sv: Albanska alfabetet
-        type: optional
-        note: For members of the Albanian community
-      12-21:
-        name:
-          mk: Ден на настава на турски јазик
-          en: Turkish Language Day
-          sv: Dagen för undervisning på turkiska
-        type: optional
-        note: For members of the the Turkish community
+      11-22: false
+      12-21: false
       01-27:
         name:
           mk: Свети Сава
@@ -144,7 +132,7 @@ holidays:
         name:
           mk: Национален ден на Властите
           en: National Day of Authorities
-          sv: Vlachernas Nationaldag
+          sv: Nationaldag
         type: optional
         note: For members of the Vlach community
       09-28:

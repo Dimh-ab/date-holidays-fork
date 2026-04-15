@@ -70,9 +70,7 @@ holidays:
         substitute: true
         type: observance
         _name: 11-01
-      12-06:
-        name:
-          es: Día de la Constitución Española
+      12-06: false
       substitutes 12-06 if sunday then next monday:
         type: observance
         substitute: true

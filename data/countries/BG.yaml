@@ -39,12 +39,7 @@ holidays:
           bg: Гергьовден
           en: St. George's Day
           sv: Sankt Georgsdagen
-      05-07:
-        name:
-          bg: Ден на радиото и телевизията
-          en: Radio and Television Day
-          sv: Radio and Television Day
-        type: observance
+      05-07: false
       05-24:
         name:
           bg: Ден на азбуката, културата и просветата

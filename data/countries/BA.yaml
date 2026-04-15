@@ -60,9 +60,7 @@ holidays:
         _name: julian 01-01
       orthodox:
         _name: orthodox
-      julian 08-15:
-        _name: 08-15
-        note: orthodox
+      julian 08-15: false
       julian 12-25:
         _name: julian 12-25
       # Muslim
@@ -75,6 +73,11 @@ holidays:
         _name: 10 Dhu al-Hijjah
       1 Shawwal P3D:
         _name: 1 Shawwal
+      11-25:
+        name:
+          en: National Day
+          sv: Nationaldag
+        type: public
     states:
       BIH:
         name: Federation of Bosnia and Herzegovina

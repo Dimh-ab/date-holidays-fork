@@ -90,23 +90,11 @@ holidays:
       4th sunday before 12-25:
         name:
           de: 1. Advent
-          sv: 1. Advent
+          sv: Första söndagen i advent
         type: observance
-      3th sunday before 12-25:
-        name:
-          de: 2. Advent
-          sv: 2. Advent
-        type: observance
-      2nd sunday before 12-25:
-        name:
-          de: 3. Advent
-          sv: 3. Advent
-        type: observance
-      1st sunday before 12-25:
-        name:
-          de: 4. Advent
-          sv: 4. Advent
-        type: observance
+      3th sunday before 12-25: false
+      2nd sunday before 12-25: false
+      1st sunday before 12-25: false
       "12-24 14:00 if sunday then 00:00":
         _name: 12-24
         type: bank
