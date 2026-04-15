@@ -167,16 +167,6 @@
     "_weekday": "Thu"
   },
   {
-    "date": "2019-09-30 00:00:00 -0600",
-    "start": "2019-09-29T16:00:00.000Z",
-    "end": "2019-09-30T16:00:00.000Z",
-    "name": "Jom Kipur",
-    "type": "optional",
-    "note": "Jewish believers",
-    "rule": "1 Tishrei",
-    "_weekday": "Mon"
-  },
-  {
     "date": "2019-10-08 00:00:00",
     "start": "2019-10-07T22:00:00.000Z",
     "end": "2019-10-08T22:00:00.000Z",

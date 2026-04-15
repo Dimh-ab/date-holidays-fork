@@ -9,15 +9,6 @@
     "_weekday": "Thu"
   },
   {
-    "date": "2026-02-03 00:00:00",
-    "start": "2026-02-02T17:00:00.000Z",
-    "end": "2026-02-03T17:00:00.000Z",
-    "name": "Ngày thành lập Đảng",
-    "type": "observance",
-    "rule": "02-03",
-    "_weekday": "Tue"
-  },
-  {
     "date": "2026-02-10 00:00:00",
     "start": "2026-02-09T17:00:00.000Z",
     "end": "2026-02-10T17:00:00.000Z",
@@ -45,15 +36,6 @@
     "_weekday": "Tue"
   },
   {
-    "date": "2026-02-21 00:00:00",
-    "start": "2026-02-20T17:00:00.000Z",
-    "end": "2026-02-21T17:00:00.000Z",
-    "name": "Chiến thắng Ngọc Hồi - Đống Đa",
-    "type": "observance",
-    "rule": "vietnamese 1-0-5",
-    "_weekday": "Sat"
-  },
-  {
     "date": "2026-03-03 00:00:00",
     "start": "2026-03-02T17:00:00.000Z",
     "end": "2026-03-03T17:00:00.000Z",
@@ -70,15 +52,6 @@
     "type": "observance",
     "rule": "03-08",
     "_weekday": "Sun"
-  },
-  {
-    "date": "2026-04-21 00:00:00",
-    "start": "2026-04-20T17:00:00.000Z",
-    "end": "2026-04-21T17:00:00.000Z",
-    "name": "Ngày Sách Việt Nam",
-    "type": "observance",
-    "rule": "04-21",
-    "_weekday": "Tue"
   },
   {
     "date": "2026-04-26 00:00:00",
@@ -108,24 +81,6 @@
     "_weekday": "Fri"
   },
   {
-    "date": "2026-05-07 00:00:00",
-    "start": "2026-05-06T17:00:00.000Z",
-    "end": "2026-05-07T17:00:00.000Z",
-    "name": "Ngày Chiến thắng Điện Biện Phủ",
-    "type": "observance",
-    "rule": "05-07",
-    "_weekday": "Thu"
-  },
-  {
-    "date": "2026-05-19 00:00:00",
-    "start": "2026-05-18T17:00:00.000Z",
-    "end": "2026-05-19T17:00:00.000Z",
-    "name": "Ngày sinh Chủ tịch Hồ Chí Minh",
-    "type": "observance",
-    "rule": "05-19",
-    "_weekday": "Tue"
-  },
-  {
     "date": "2026-05-31 00:00:00",
     "start": "2026-05-30T17:00:00.000Z",
     "end": "2026-05-31T17:00:00.000Z",
@@ -144,15 +99,6 @@
     "_weekday": "Mon"
   },
   {
-    "date": "2026-06-19 00:00:00",
-    "start": "2026-06-18T17:00:00.000Z",
-    "end": "2026-06-19T17:00:00.000Z",
-    "name": "Tết Đoan ngọ",
-    "type": "observance",
-    "rule": "vietnamese 5-0-5",
-    "_weekday": "Fri"
-  },
-  {
     "date": "2026-06-28 00:00:00",
     "start": "2026-06-27T17:00:00.000Z",
     "end": "2026-06-28T17:00:00.000Z",
@@ -160,24 +106,6 @@
     "type": "observance",
     "rule": "06-28",
     "_weekday": "Sun"
-  },
-  {
-    "date": "2026-07-27 00:00:00",
-    "start": "2026-07-26T17:00:00.000Z",
-    "end": "2026-07-27T17:00:00.000Z",
-    "name": "Ngày Thương Binh Liệt Sĩ",
-    "type": "observance",
-    "rule": "07-27",
-    "_weekday": "Mon"
-  },
-  {
-    "date": "2026-08-19 00:00:00",
-    "start": "2026-08-18T17:00:00.000Z",
-    "end": "2026-08-19T17:00:00.000Z",
-    "name": "Ngày cách mạng Tháng Tám",
-    "type": "observance",
-    "rule": "08-19",
-    "_weekday": "Wed"
   },
   {
     "date": "2026-08-27 00:00:00",
@@ -198,24 +126,6 @@
     "_weekday": "Wed"
   },
   {
-    "date": "2026-09-25 00:00:00",
-    "start": "2026-09-24T17:00:00.000Z",
-    "end": "2026-09-25T17:00:00.000Z",
-    "name": "Tết Trung thu",
-    "type": "observance",
-    "rule": "vietnamese 8-0-15",
-    "_weekday": "Fri"
-  },
-  {
-    "date": "2026-10-10 00:00:00",
-    "start": "2026-10-09T17:00:00.000Z",
-    "end": "2026-10-10T17:00:00.000Z",
-    "name": "Ngày giải phóng Thủ Đô",
-    "type": "observance",
-    "rule": "10-10",
-    "_weekday": "Sat"
-  },
-  {
     "date": "2026-10-20 00:00:00",
     "start": "2026-10-19T17:00:00.000Z",
     "end": "2026-10-20T17:00:00.000Z",
@@ -223,15 +133,6 @@
     "type": "observance",
     "rule": "10-20",
     "_weekday": "Tue"
-  },
-  {
-    "date": "2026-11-20 00:00:00",
-    "start": "2026-11-19T17:00:00.000Z",
-    "end": "2026-11-20T17:00:00.000Z",
-    "name": "Ngày Nhà giáo Việt Nam",
-    "type": "observance",
-    "rule": "11-20",
-    "_weekday": "Fri"
   },
   {
     "date": "2026-12-22 00:00:00",

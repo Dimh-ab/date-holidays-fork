@@ -185,16 +185,6 @@
     "_weekday": "Sat"
   },
   {
-    "date": "2020-09-19 00:00:00 -0600",
-    "start": "2020-09-18T16:00:00.000Z",
-    "end": "2020-09-19T16:00:00.000Z",
-    "name": "Jom Kipur",
-    "type": "optional",
-    "note": "Jewish believers",
-    "rule": "1 Tishrei",
-    "_weekday": "Sat"
-  },
-  {
     "date": "2020-09-28 00:00:00 -0600",
     "start": "2020-09-27T16:00:00.000Z",
     "end": "2020-09-28T16:00:00.000Z",

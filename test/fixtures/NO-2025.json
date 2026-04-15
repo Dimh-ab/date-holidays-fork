@@ -9,15 +9,6 @@
     "_weekday": "Wed"
   },
   {
-    "date": "2025-01-21 00:00:00",
-    "start": "2025-01-20T23:00:00.000Z",
-    "end": "2025-01-21T23:00:00.000Z",
-    "name": "H.K.H. prinsesse Ingrid Alexandra",
-    "type": "observance",
-    "rule": "01-21",
-    "_weekday": "Tue"
-  },
-  {
     "date": "2025-02-06 00:00:00",
     "start": "2025-02-05T23:00:00.000Z",
     "end": "2025-02-06T23:00:00.000Z",
@@ -42,15 +33,6 @@
     "name": "Valentinsdag",
     "type": "observance",
     "rule": "02-14",
-    "_weekday": "Fri"
-  },
-  {
-    "date": "2025-02-21 00:00:00",
-    "start": "2025-02-20T23:00:00.000Z",
-    "end": "2025-02-21T23:00:00.000Z",
-    "name": "H.M. kong Harald V",
-    "type": "observance",
-    "rule": "02-21",
     "_weekday": "Fri"
   },
   {
@@ -207,39 +189,12 @@
     "_weekday": "Mon"
   },
   {
-    "date": "2025-07-04 00:00:00",
-    "start": "2025-07-03T22:00:00.000Z",
-    "end": "2025-07-04T22:00:00.000Z",
-    "name": "H.M. dronning Sonja",
-    "type": "observance",
-    "rule": "07-04",
-    "_weekday": "Fri"
-  },
-  {
-    "date": "2025-07-20 00:00:00",
-    "start": "2025-07-19T22:00:00.000Z",
-    "end": "2025-07-20T22:00:00.000Z",
-    "name": "H.K.H. kronprins Haakon Magnus",
-    "type": "observance",
-    "rule": "07-20",
-    "_weekday": "Sun"
-  },
-  {
     "date": "2025-07-29 00:00:00",
     "start": "2025-07-28T22:00:00.000Z",
     "end": "2025-07-29T22:00:00.000Z",
     "name": "Olsok",
     "type": "optional",
     "rule": "07-29",
-    "_weekday": "Tue"
-  },
-  {
-    "date": "2025-08-19 00:00:00",
-    "start": "2025-08-18T22:00:00.000Z",
-    "end": "2025-08-19T22:00:00.000Z",
-    "name": "H.K.H. kronprinsesse Mette-Marit",
-    "type": "observance",
-    "rule": "08-19",
     "_weekday": "Tue"
   },
   {
@@ -267,33 +222,6 @@
     "name": "Første søndag i advent",
     "type": "observance",
     "rule": "4th sunday before 12-25",
-    "_weekday": "Sun"
-  },
-  {
-    "date": "2025-12-07 00:00:00",
-    "start": "2025-12-06T23:00:00.000Z",
-    "end": "2025-12-07T23:00:00.000Z",
-    "name": "Andre søndag i advent",
-    "type": "observance",
-    "rule": "3rd sunday before 12-25",
-    "_weekday": "Sun"
-  },
-  {
-    "date": "2025-12-14 00:00:00",
-    "start": "2025-12-13T23:00:00.000Z",
-    "end": "2025-12-14T23:00:00.000Z",
-    "name": "Tredje søndag i advent",
-    "type": "observance",
-    "rule": "2nd sunday before 12-25",
-    "_weekday": "Sun"
-  },
-  {
-    "date": "2025-12-21 00:00:00",
-    "start": "2025-12-20T23:00:00.000Z",
-    "end": "2025-12-21T23:00:00.000Z",
-    "name": "Fjerde søndag i advent",
-    "type": "observance",
-    "rule": "1st sunday before 12-25",
     "_weekday": "Sun"
   },
   {

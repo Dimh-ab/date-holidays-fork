@@ -54,13 +54,13 @@
     "_weekday": "Sun"
   },
   {
-    "date": "2025-04-23 00:00:00",
-    "start": "2025-04-23T11:00:00.000Z",
-    "end": "2025-04-24T11:00:00.000Z",
-    "name": "Administrative Professionals Day",
-    "type": "observance",
-    "rule": "wednesday before 04-28",
-    "_weekday": "Wed"
+    "date": "2025-05-01 00:00:00",
+    "start": "2025-05-01T11:00:00.000Z",
+    "end": "2025-05-02T11:00:00.000Z",
+    "name": "Labour Day",
+    "type": "public",
+    "rule": "05-01",
+    "_weekday": "Thu"
   },
   {
     "date": "2025-05-11 00:00:00",
@@ -116,15 +116,6 @@
     "note": "Goverment offices closed",
     "rule": "07-16",
     "_weekday": "Wed"
-  },
-  {
-    "date": "2025-09-01 00:00:00",
-    "start": "2025-09-01T11:00:00.000Z",
-    "end": "2025-09-02T11:00:00.000Z",
-    "name": "Labour Day",
-    "type": "public",
-    "rule": "1st monday in September",
-    "_weekday": "Mon"
   },
   {
     "date": "2025-10-12 00:00:00",

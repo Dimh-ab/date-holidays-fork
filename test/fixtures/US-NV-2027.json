@@ -54,22 +54,13 @@
     "_weekday": "Sun"
   },
   {
-    "date": "2027-04-15 00:00:00",
-    "start": "2027-04-15T07:00:00.000Z",
-    "end": "2027-04-16T07:00:00.000Z",
-    "name": "Tax Day",
-    "type": "observance",
-    "rule": "04-15 if friday then next monday if saturday,sunday then next tuesday",
-    "_weekday": "Thu"
-  },
-  {
-    "date": "2027-04-21 00:00:00",
-    "start": "2027-04-21T07:00:00.000Z",
-    "end": "2027-04-22T07:00:00.000Z",
-    "name": "Administrative Professionals Day",
-    "type": "observance",
-    "rule": "wednesday before 04-28",
-    "_weekday": "Wed"
+    "date": "2027-05-01 00:00:00",
+    "start": "2027-05-01T07:00:00.000Z",
+    "end": "2027-05-02T07:00:00.000Z",
+    "name": "Labor Day",
+    "type": "public",
+    "rule": "05-01",
+    "_weekday": "Sat"
   },
   {
     "date": "2027-05-09 00:00:00",
@@ -143,15 +134,6 @@
     "name": "Indigenous Peoples' Day",
     "type": "observance",
     "rule": "08-09",
-    "_weekday": "Mon"
-  },
-  {
-    "date": "2027-09-06 00:00:00",
-    "start": "2027-09-06T07:00:00.000Z",
-    "end": "2027-09-07T07:00:00.000Z",
-    "name": "Labor Day",
-    "type": "public",
-    "rule": "1st monday in September",
     "_weekday": "Mon"
   },
   {

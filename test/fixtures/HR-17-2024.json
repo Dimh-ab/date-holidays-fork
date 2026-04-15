@@ -185,16 +185,6 @@
     "_weekday": "Thu"
   },
   {
-    "date": "2024-10-03 00:00:00 -0600",
-    "start": "2024-10-02T16:00:00.000Z",
-    "end": "2024-10-03T16:00:00.000Z",
-    "name": "Jom Kipur",
-    "type": "optional",
-    "note": "Jewish believers",
-    "rule": "1 Tishrei",
-    "_weekday": "Thu"
-  },
-  {
     "date": "2024-10-12 00:00:00 -0600",
     "start": "2024-10-11T16:00:00.000Z",
     "end": "2024-10-12T16:00:00.000Z",

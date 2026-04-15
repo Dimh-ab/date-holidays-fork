@@ -18,6 +18,15 @@
     "_weekday": "Tue"
   },
   {
+    "date": "2015-02-06 00:00:00",
+    "start": "2015-02-05T22:00:00.000Z",
+    "end": "2015-02-06T22:00:00.000Z",
+    "name": "Saamelaisten kansallispäivä",
+    "type": "observance",
+    "rule": "02-06",
+    "_weekday": "Fri"
+  },
+  {
     "date": "2015-04-03 00:00:00",
     "start": "2015-04-02T21:00:00.000Z",
     "end": "2015-04-03T21:00:00.000Z",
@@ -114,6 +123,15 @@
     "name": "Isänpäivä",
     "type": "observance",
     "rule": "2nd sunday in November",
+    "_weekday": "Sun"
+  },
+  {
+    "date": "2015-11-29 00:00:00",
+    "start": "2015-11-28T22:00:00.000Z",
+    "end": "2015-11-29T22:00:00.000Z",
+    "name": "Ensimmäinen adventtisunnuntai",
+    "type": "observance",
+    "rule": "4th sunday before 12-25",
     "_weekday": "Sun"
   },
   {

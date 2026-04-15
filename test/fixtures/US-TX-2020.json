@@ -92,15 +92,6 @@
     "_weekday": "Sun"
   },
   {
-    "date": "2020-04-15 00:00:00",
-    "start": "2020-04-15T05:00:00.000Z",
-    "end": "2020-04-16T05:00:00.000Z",
-    "name": "Tax Day",
-    "type": "observance",
-    "rule": "04-15 if friday then next monday if saturday,sunday then next tuesday",
-    "_weekday": "Wed"
-  },
-  {
     "date": "2020-04-21 00:00:00",
     "start": "2020-04-21T05:00:00.000Z",
     "end": "2020-04-22T05:00:00.000Z",
@@ -111,13 +102,13 @@
     "_weekday": "Tue"
   },
   {
-    "date": "2020-04-22 00:00:00",
-    "start": "2020-04-22T05:00:00.000Z",
-    "end": "2020-04-23T05:00:00.000Z",
-    "name": "Administrative Professionals Day",
-    "type": "observance",
-    "rule": "wednesday before 04-28",
-    "_weekday": "Wed"
+    "date": "2020-05-01 00:00:00",
+    "start": "2020-05-01T05:00:00.000Z",
+    "end": "2020-05-02T05:00:00.000Z",
+    "name": "Labor Day",
+    "type": "public",
+    "rule": "05-01",
+    "_weekday": "Fri"
   },
   {
     "date": "2020-05-10 00:00:00",
@@ -184,15 +175,6 @@
     "note": "state agencies are partially staffed",
     "rule": "08-27",
     "_weekday": "Thu"
-  },
-  {
-    "date": "2020-09-07 00:00:00",
-    "start": "2020-09-07T05:00:00.000Z",
-    "end": "2020-09-08T05:00:00.000Z",
-    "name": "Labor Day",
-    "type": "public",
-    "rule": "1st monday in September",
-    "_weekday": "Mon"
   },
   {
     "date": "2020-10-12 00:00:00",

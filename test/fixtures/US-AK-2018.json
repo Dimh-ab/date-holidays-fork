@@ -63,22 +63,13 @@
     "_weekday": "Sun"
   },
   {
-    "date": "2018-04-17 00:00:00",
-    "start": "2018-04-17T08:00:00.000Z",
-    "end": "2018-04-18T08:00:00.000Z",
-    "name": "Tax Day",
-    "type": "observance",
-    "rule": "04-15 if friday then next monday if saturday,sunday then next tuesday",
+    "date": "2018-05-01 00:00:00",
+    "start": "2018-05-01T08:00:00.000Z",
+    "end": "2018-05-02T08:00:00.000Z",
+    "name": "Labor Day",
+    "type": "public",
+    "rule": "05-01",
     "_weekday": "Tue"
-  },
-  {
-    "date": "2018-04-25 00:00:00",
-    "start": "2018-04-25T08:00:00.000Z",
-    "end": "2018-04-26T08:00:00.000Z",
-    "name": "Administrative Professionals Day",
-    "type": "observance",
-    "rule": "wednesday before 04-28",
-    "_weekday": "Wed"
   },
   {
     "date": "2018-05-13 00:00:00",
@@ -115,15 +106,6 @@
     "type": "public",
     "rule": "07-04 and if sunday then next monday if saturday then previous friday",
     "_weekday": "Wed"
-  },
-  {
-    "date": "2018-09-03 00:00:00",
-    "start": "2018-09-03T08:00:00.000Z",
-    "end": "2018-09-04T08:00:00.000Z",
-    "name": "Labor Day",
-    "type": "public",
-    "rule": "1st monday in September",
-    "_weekday": "Mon"
   },
   {
     "date": "2018-10-08 00:00:00",

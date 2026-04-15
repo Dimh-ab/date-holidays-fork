@@ -259,16 +259,6 @@
     "_weekday": "Fri"
   },
   {
-    "date": "2024-11-22 00:00:00",
-    "start": "2024-11-21T23:00:00.000Z",
-    "end": "2024-11-22T23:00:00.000Z",
-    "name": "Ден на Албанската азбука",
-    "type": "optional",
-    "note": "For members of the Albanian community",
-    "rule": "11-22",
-    "_weekday": "Fri"
-  },
-  {
     "date": "2024-12-08 00:00:00",
     "start": "2024-12-07T23:00:00.000Z",
     "end": "2024-12-08T23:00:00.000Z",
@@ -286,16 +276,6 @@
     "substitute": true,
     "rule": "12-08 and if sunday then next monday",
     "_weekday": "Mon"
-  },
-  {
-    "date": "2024-12-21 00:00:00",
-    "start": "2024-12-20T23:00:00.000Z",
-    "end": "2024-12-21T23:00:00.000Z",
-    "name": "Ден на настава на турски јазик",
-    "type": "optional",
-    "note": "For members of the the Turkish community",
-    "rule": "12-21",
-    "_weekday": "Sat"
   },
   {
     "date": "2024-12-25 00:00:00",
