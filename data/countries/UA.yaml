@@ -1,4 +1,4 @@
-# @source http://ukurier.gov.ua/uk/news/v-ukrayini-zyavivsya-she-odin-vihidnij-14-zhovtnya/
+﻿# @source http://ukurier.gov.ua/uk/news/v-ukrayini-zyavivsya-she-odin-vihidnij-14-zhovtnya/
 # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Ukraine
 holidays:
   UA:
@@ -44,7 +44,9 @@ holidays:
           en: Victory Day
           sv: Segerdagen 1945
         substitute: true
-      06-28 and if saturday, sunday then next monday:
+      06-28:
+        _name: Constitution Day
+      substitutes 06-28 if saturday, sunday then next monday:
         _name: Constitution Day
         substitute: true
         disable:
@@ -131,3 +133,4 @@ holidays:
     #   name: Chernihivshchyna
     # '77':
     #   name: Chernivtsi Oblast
+

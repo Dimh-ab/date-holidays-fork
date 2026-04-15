@@ -1,4 +1,4 @@
-holidays:
+﻿holidays:
   # @attrib https://es.m.wikipedia.org/wiki/Calendario_laboral
   # @source https://www.boe.es/boe/dias/2018/10/20/pdfs/BOE-A-2018-14369.pdf
   # @source https://www.boe.es/boe/dias/2019/10/11/pdfs/BOE-A-2019-14552.pdf
@@ -70,12 +70,18 @@ holidays:
         substitute: true
         type: observance
         _name: 11-01
-      12-06: false
+      12-06:
+        name:
+          en: Constitution Day
+          es: Día de la Constitución Española
+          sv: Día de la Constitución Española
       substitutes 12-06 if sunday then next monday:
         type: observance
         substitute: true
         name:
+          en: Constitution Day
           es: Día de la Constitución Española
+          sv: Día de la Constitución Española
         disable:
           - 2026-12-07
       12-08:
@@ -406,3 +412,4 @@ holidays:
             _name: 03-19
           easter 1:
             _name: easter 1
+

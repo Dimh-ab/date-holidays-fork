@@ -1,4 +1,4 @@
-# @source http://www.mtsp.gov.mk/WBStorage/Files/zakon_praznici.pdf
+﻿# @source http://www.mtsp.gov.mk/WBStorage/Files/zakon_praznici.pdf
 holidays:
   MK:
     names:
@@ -24,7 +24,11 @@ holidays:
       05-01 and if sunday then next monday:
         substitute: true
         _name: 05-01
-      05-24 and if sunday then next monday:
+      05-24:
+        name:
+          en: Saints Cyril and Methodius Day
+          sv: Heliga Kyrillos och Methodios dag
+      substitutes 05-24 if sunday then next monday:
         substitute: true
         name:
           mk: Св. Кирил и Методиј
@@ -32,7 +36,11 @@ holidays:
           sv: Heliga Kyrillos och Methodios dag
         disable:
           - 2026-05-25
-      08-02 and if sunday then next monday:
+      08-02:
+        name:
+          en: Day of the Republic
+          sv: Republikens dag
+      substitutes 08-02 if sunday then next monday:
         substitute: true
         name:
           mk: Ден на Републиката
@@ -43,7 +51,11 @@ holidays:
       09-08 and if sunday then next monday:
         substitute: true
         _name: Independence Day
-      10-11 and if sunday then next monday:
+      10-11:
+        name:
+          en: Revolution Day
+          sv: Upprorets dag
+      substitutes 10-11 if sunday then next monday:
         substitute: true
         name:
           mk: Ден на востанието
