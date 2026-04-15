@@ -15,12 +15,7 @@ holidays:
       01-01 and if sunday then next tuesday:
         _name: 01-01
         substitute: true
-      01-02 and if sunday then next monday:
-        name:
-          sq: Festa e Vitit të Ri
-          en: New Year Holiday
-          sv: Juletider
-        substitute: true
+      01-02: false
       03-02:
         name:
           sq: Dita e Besëlidhjes së Lezhës

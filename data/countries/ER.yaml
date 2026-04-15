@@ -21,9 +21,13 @@ holidays:
           en: Timkat
           sv: Timkat
       01-06 in non-leap years:
-        _name: 12-25
+        name:
+          en: Orthodox Christmas Day
+          sv: Ortodoxa juldagen
       01-07 in leap years:
-        _name: 12-25
+        name:
+          en: Orthodox Christmas Day
+          sv: Ortodoxa juldagen
       02-10:
         name:
           ti: ፈንቅል

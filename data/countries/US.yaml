@@ -89,6 +89,8 @@ holidays:
       07-04 and if sunday then next monday if saturday then previous friday:
         substitute: true
         _name: Independence Day
+        disable:
+          - 2026-07-03
       05-01:
         _name: 05-01
       2nd monday in October:

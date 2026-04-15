@@ -30,12 +30,16 @@ holidays:
           mk: Св. Кирил и Методиј
           en: Saints Cyril and Methodius Day
           sv: Heliga Kyrillos och Methodios dag
+        disable:
+          - 2026-05-25
       08-02 and if sunday then next monday:
         substitute: true
         name:
           mk: Ден на Републиката
           en: Day of the Republic
           sv: Republikens dag
+        disable:
+          - 2026-08-03
       09-08 and if sunday then next monday:
         substitute: true
         _name: Independence Day
@@ -45,6 +49,8 @@ holidays:
           mk: Ден на востанието
           en: Revolution Day
           sv: Upprorets dag
+        disable:
+          - 2026-10-12
       10-23 and if sunday then next monday:
         substitute: true
         name:
@@ -66,7 +72,9 @@ holidays:
         type: optional
         note: Orthodox believers
       julian 01-06:
-        _name: 01-06
+        name:
+          en: Orthodox Epiphany
+          sv: Ortodoxa trettondag jul
         type: optional
         note: Orthodox believers
       orthodox -2:
@@ -132,7 +140,7 @@ holidays:
         name:
           mk: Национален ден на Властите
           en: National Day of Authorities
-          sv: Nationaldag
+          sv: Vlachernas Nationaldag
         type: optional
         note: For members of the Vlach community
       09-28:

@@ -26,10 +26,8 @@ holidays:
         substitute: true
       03-08 and if saturday, sunday then next monday:
         _name: 03-08
-      orthodox and if sunday then next monday:
+      orthodox:
         _name: orthodox
-        disable:
-          - 2026-04-13
       orthodox 49 and if sunday then next monday:
         _name: easter 49
         disable:
@@ -49,6 +47,8 @@ holidays:
       06-28 and if saturday, sunday then next monday:
         _name: Constitution Day
         substitute: true
+        disable:
+          - 2026-06-29
       07-15 and if saturday, sunday then next monday since 2023:
         name:
           en: Statehood Day

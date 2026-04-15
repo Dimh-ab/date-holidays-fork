@@ -55,6 +55,8 @@ holidays:
       substitutes 12-26 if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 12-26
+        disable:
+          - "2026-12-28"
       "2012-06-05":
         name:
           en: Queen’s Diamond Jubilee
