@@ -31,7 +31,7 @@
     "date": "2019-01-19 00:00:00",
     "start": "2019-01-18T23:00:00.000Z",
     "end": "2019-01-19T23:00:00.000Z",
-    "name": "Богојавление",
+    "name": "Orthodox Epiphany",
     "type": "optional",
     "note": "Orthodox believers",
     "rule": "julian 01-06",

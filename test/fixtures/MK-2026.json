@@ -31,7 +31,7 @@
     "date": "2026-01-19 00:00:00",
     "start": "2026-01-18T23:00:00.000Z",
     "end": "2026-01-19T23:00:00.000Z",
-    "name": "Богојавление",
+    "name": "Orthodox Epiphany",
     "type": "optional",
     "note": "Orthodox believers",
     "rule": "julian 01-06",
@@ -124,25 +124,6 @@
     "_weekday": "Sat"
   },
   {
-    "date": "2026-05-24 00:00:00",
-    "start": "2026-05-23T22:00:00.000Z",
-    "end": "2026-05-24T22:00:00.000Z",
-    "name": "Св. Кирил и Методиј",
-    "type": "public",
-    "rule": "05-24 and if sunday then next monday",
-    "_weekday": "Sun"
-  },
-  {
-    "date": "2026-05-25 00:00:00",
-    "start": "2026-05-24T22:00:00.000Z",
-    "end": "2026-05-25T22:00:00.000Z",
-    "name": "Св. Кирил и Методиј (заменет ден)",
-    "type": "public",
-    "substitute": true,
-    "rule": "05-24 and if sunday then next monday",
-    "_weekday": "Mon"
-  },
-  {
     "date": "2026-05-27 00:00:00 -0600",
     "start": "2026-05-26T16:00:00.000Z",
     "end": "2026-05-27T16:00:00.000Z",
@@ -171,25 +152,6 @@
     "note": "Orthodox believers",
     "rule": "orthodox 49",
     "_weekday": "Sun"
-  },
-  {
-    "date": "2026-08-02 00:00:00",
-    "start": "2026-08-01T22:00:00.000Z",
-    "end": "2026-08-02T22:00:00.000Z",
-    "name": "Ден на Републиката",
-    "type": "public",
-    "rule": "08-02 and if sunday then next monday",
-    "_weekday": "Sun"
-  },
-  {
-    "date": "2026-08-03 00:00:00",
-    "start": "2026-08-02T22:00:00.000Z",
-    "end": "2026-08-03T22:00:00.000Z",
-    "name": "Ден на Републиката (заменет ден)",
-    "type": "public",
-    "substitute": true,
-    "rule": "08-02 and if sunday then next monday",
-    "_weekday": "Mon"
   },
   {
     "date": "2026-08-28 00:00:00",
@@ -228,25 +190,6 @@
     "type": "optional",
     "note": "For Members of the Bosniak community.",
     "rule": "09-28",
-    "_weekday": "Mon"
-  },
-  {
-    "date": "2026-10-11 00:00:00",
-    "start": "2026-10-10T22:00:00.000Z",
-    "end": "2026-10-11T22:00:00.000Z",
-    "name": "Ден на востанието",
-    "type": "public",
-    "rule": "10-11 and if sunday then next monday",
-    "_weekday": "Sun"
-  },
-  {
-    "date": "2026-10-12 00:00:00",
-    "start": "2026-10-11T22:00:00.000Z",
-    "end": "2026-10-12T22:00:00.000Z",
-    "name": "Ден на востанието (заменет ден)",
-    "type": "public",
-    "substitute": true,
-    "rule": "10-11 and if sunday then next monday",
     "_weekday": "Mon"
   },
   {

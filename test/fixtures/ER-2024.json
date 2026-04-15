@@ -21,7 +21,7 @@
     "date": "2024-01-07 00:00:00",
     "start": "2024-01-06T21:00:00.000Z",
     "end": "2024-01-07T21:00:00.000Z",
-    "name": "ልደት",
+    "name": "Orthodox Christmas Day",
     "type": "public",
     "rule": "01-07 in leap years",
     "_weekday": "Sun"
