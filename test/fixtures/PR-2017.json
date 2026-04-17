@@ -150,7 +150,7 @@
     "end": "2017-07-05T04:00:00.000Z",
     "name": "Día de la Independencia",
     "type": "public",
-    "rule": "07-04 and if sunday then next monday if saturday then previous friday",
+    "rule": "07-04",
     "_weekday": "Tue"
   },
   {
