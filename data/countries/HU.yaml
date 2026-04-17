@@ -14,12 +14,7 @@ holidays:
       01-01:
         _name: 01-01
         type: public
-      02-01:
-        name:
-          hu: A köztársaság emléknapja
-          en: Memorial Day of the Republic
-          sv: Memorial Day
-        type: observance
+      02-01: false
       02-25: false
       03-08:
         _name: 03-08
