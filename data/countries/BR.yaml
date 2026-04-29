@@ -76,6 +76,7 @@ holidays:
           pt: Dia de Eleição
           en: Election Day
           sv: Valdag
+        type: false
       1st sunday before 11-01 in even years: false
       11-02:
         _name: 11-02
@@ -86,12 +87,12 @@ holidays:
           sv: Republikens dag
       "12-24 14:00":
         _name: 12-24
-        type: optional
+        type: false
       12-25:
         _name: 12-25
       "12-31 14:00":
         _name: 12-31
-        type: optional
+        type: false
     states:
       AC:
         name: Acre
