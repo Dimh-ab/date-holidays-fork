@@ -71,12 +71,7 @@ holidays:
           pt: Nossa Senhora Aparecida
           en: Our Lady of Aparecida
           sv: Our Lady of Aparecida
-      1st sunday in October in even years:
-        name:
-          pt: Dia de Eleição
-          en: Election Day
-          sv: Valdag
-        type: false
+      1st sunday in October in even years: false
       1st sunday before 11-01 in even years: false
       11-02:
         _name: 11-02
@@ -85,14 +80,10 @@ holidays:
           pt: Proclamação da República
           en: Republic Day
           sv: Republikens dag
-      "12-24 14:00":
-        _name: 12-24
-        type: false
+      "12-24 14:00": false
       12-25:
         _name: 12-25
-      "12-31 14:00":
-        _name: 12-31
-        type: false
+      "12-31 14:00": false
     states:
       AC:
         name: Acre
