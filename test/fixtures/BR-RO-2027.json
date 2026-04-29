@@ -148,7 +148,7 @@
     "start": "2027-12-24T18:00:00.000Z",
     "end": "2027-12-25T04:00:00.000Z",
     "name": "Noite de Natal",
-    "type": "optional",
+    "type": "public",
     "rule": "12-24 14:00",
     "_weekday": "Fri"
   },
@@ -166,7 +166,7 @@
     "start": "2027-12-31T18:00:00.000Z",
     "end": "2028-01-01T04:00:00.000Z",
     "name": "Véspera de Ano Novo",
-    "type": "optional",
+    "type": "public",
     "rule": "12-31 14:00",
     "_weekday": "Fri"
   }

@@ -167,7 +167,7 @@
     "start": "2018-12-24T17:00:00.000Z",
     "end": "2018-12-25T03:00:00.000Z",
     "name": "Noite de Natal",
-    "type": "optional",
+    "type": "public",
     "rule": "12-24 14:00",
     "_weekday": "Mon"
   },
@@ -185,7 +185,7 @@
     "start": "2018-12-31T17:00:00.000Z",
     "end": "2019-01-01T03:00:00.000Z",
     "name": "Véspera de Ano Novo",
-    "type": "optional",
+    "type": "public",
     "rule": "12-31 14:00",
     "_weekday": "Mon"
   }
