@@ -99,15 +99,6 @@
     "_weekday": "Fri"
   },
   {
-    "date": "2018-10-07 00:00:00",
-    "start": "2018-10-07T03:00:00.000Z",
-    "end": "2018-10-08T03:00:00.000Z",
-    "name": "Dia de Eleição",
-    "type": "public",
-    "rule": "1st sunday in October in even years",
-    "_weekday": "Sun"
-  },
-  {
     "date": "2018-10-12 00:00:00",
     "start": "2018-10-12T03:00:00.000Z",
     "end": "2018-10-13T03:00:00.000Z",
@@ -144,15 +135,6 @@
     "_weekday": "Thu"
   },
   {
-    "date": "2018-12-24 14:00:00",
-    "start": "2018-12-24T17:00:00.000Z",
-    "end": "2018-12-25T03:00:00.000Z",
-    "name": "Noite de Natal",
-    "type": "public",
-    "rule": "12-24 14:00",
-    "_weekday": "Mon"
-  },
-  {
     "date": "2018-12-25 00:00:00",
     "start": "2018-12-25T03:00:00.000Z",
     "end": "2018-12-26T03:00:00.000Z",
@@ -160,14 +142,5 @@
     "type": "public",
     "rule": "12-25",
     "_weekday": "Tue"
-  },
-  {
-    "date": "2018-12-31 14:00:00",
-    "start": "2018-12-31T17:00:00.000Z",
-    "end": "2019-01-01T03:00:00.000Z",
-    "name": "Véspera de Ano Novo",
-    "type": "public",
-    "rule": "12-31 14:00",
-    "_weekday": "Mon"
   }
 ]
