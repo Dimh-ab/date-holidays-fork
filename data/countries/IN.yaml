@@ -17,8 +17,6 @@ holidays:
           hi: "गणतंत्र दिवस"
           en: "Republic Day"
           sv: "Republikens dag"
-      easter -2:
-        _name: easter -2
       08-15:
         name:
           hi: "स्वतंत्रता दिवस"
@@ -29,16 +27,181 @@ holidays:
           hi: "गांधी जयंती"
           en: "Gandhi Jayanti"
           sv: "Gandhi Jayanti"
-      12-25:
-        _name: 12-25
-      "10 Muharram":
-        _name: 10 Muharram
-      "12 Rabi al-awwal":
-        _name: 12 Rabi al-awwal
       "1 Shawwal":
         _name: 1 Shawwal
       "10 Dhu al-Hijjah":
         _name: 10 Dhu al-Hijjah
+      # Hindu festivals follow the lunisolar Hindu calendar and are listed per year
+      # @source DoPT OM No. 12/2/2023-JCA dated 2025-07-03 (2026)
+      # @source https://www.gconnect.in/gc22/wp-content/uploads/2026/07/Holiday-list-2027.pdf
+      # @source https://www.drikpanchang.com/calendars/hindu/hinducalendar.html (2028-2031)
+      # Maha Shivaratri
+      "2026-02-15":
+        name:
+          hi: "महाशिवरात्रि"
+          en: "Maha Shivaratri"
+          sv: "Maha Shivaratri"
+        type: observance
+      "2027-03-06":
+        name:
+          hi: "महाशिवरात्रि"
+          en: "Maha Shivaratri"
+          sv: "Maha Shivaratri"
+        type: observance
+      "2028-02-23":
+        name:
+          hi: "महाशिवरात्रि"
+          en: "Maha Shivaratri"
+          sv: "Maha Shivaratri"
+        type: observance
+      "2029-02-11":
+        name:
+          hi: "महाशिवरात्रि"
+          en: "Maha Shivaratri"
+          sv: "Maha Shivaratri"
+        type: observance
+      "2030-03-02":
+        name:
+          hi: "महाशिवरात्रि"
+          en: "Maha Shivaratri"
+          sv: "Maha Shivaratri"
+        type: observance
+      "2031-02-20":
+        name:
+          hi: "महाशिवरात्रि"
+          en: "Maha Shivaratri"
+          sv: "Maha Shivaratri"
+        type: observance
+      # Holi
+      "2026-03-04":
+        name:
+          hi: "होली"
+          en: "Holi"
+          sv: "Holi"
+      "2027-03-23":
+        name:
+          hi: "होली"
+          en: "Holi"
+          sv: "Holi"
+      "2028-03-11":
+        name:
+          hi: "होली"
+          en: "Holi"
+          sv: "Holi"
+      "2029-03-01":
+        name:
+          hi: "होली"
+          en: "Holi"
+          sv: "Holi"
+      "2030-03-20":
+        name:
+          hi: "होली"
+          en: "Holi"
+          sv: "Holi"
+      "2031-03-09":
+        name:
+          hi: "होली"
+          en: "Holi"
+          sv: "Holi"
+      # Janmashtami
+      "2026-09-04":
+        name:
+          hi: "जन्माष्टमी"
+          en: "Janmashtami"
+          sv: "Janmashtami"
+      "2027-08-25":
+        name:
+          hi: "जन्माष्टमी"
+          en: "Janmashtami"
+          sv: "Janmashtami"
+      "2028-08-13":
+        name:
+          hi: "जन्माष्टमी"
+          en: "Janmashtami"
+          sv: "Janmashtami"
+      "2029-09-01":
+        name:
+          hi: "जन्माष्टमी"
+          en: "Janmashtami"
+          sv: "Janmashtami"
+      "2030-08-21":
+        name:
+          hi: "जन्माष्टमी"
+          en: "Janmashtami"
+          sv: "Janmashtami"
+      "2031-08-10":
+        name:
+          hi: "जन्माष्टमी"
+          en: "Janmashtami"
+          sv: "Janmashtami"
+      # Navratri
+      "2026-10-11":
+        name:
+          hi: "नवरात्रि"
+          en: "Navratri"
+          sv: "Navratri"
+        type: observance
+      "2027-09-30":
+        name:
+          hi: "नवरात्रि"
+          en: "Navratri"
+          sv: "Navratri"
+        type: observance
+      "2028-09-19":
+        name:
+          hi: "नवरात्रि"
+          en: "Navratri"
+          sv: "Navratri"
+        type: observance
+      "2029-10-08":
+        name:
+          hi: "नवरात्रि"
+          en: "Navratri"
+          sv: "Navratri"
+        type: observance
+      "2030-09-28":
+        name:
+          hi: "नवरात्रि"
+          en: "Navratri"
+          sv: "Navratri"
+        type: observance
+      "2031-10-17":
+        name:
+          hi: "नवरात्रि"
+          en: "Navratri"
+          sv: "Navratri"
+        type: observance
+      # Diwali
+      "2026-11-08":
+        name:
+          hi: "दीपावली"
+          en: "Diwali"
+          sv: "Diwali"
+      "2027-10-29":
+        name:
+          hi: "दीपावली"
+          en: "Diwali"
+          sv: "Diwali"
+      "2028-10-17":
+        name:
+          hi: "दीपावली"
+          en: "Diwali"
+          sv: "Diwali"
+      "2029-11-05":
+        name:
+          hi: "दीपावली"
+          en: "Diwali"
+          sv: "Diwali"
+      "2030-10-26":
+        name:
+          hi: "दीपावली"
+          en: "Diwali"
+          sv: "Diwali"
+      "2031-11-14":
+        name:
+          hi: "दीपावली"
+          en: "Diwali"
+          sv: "Diwali"
     states:
       AN:
         name: Andaman and Nicobar Islands

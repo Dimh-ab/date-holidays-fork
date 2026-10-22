@@ -9,15 +9,6 @@
     "_weekday": "Sat"
   },
   {
-    "date": "2019-04-19 00:00:00",
-    "start": "2019-04-18T18:30:00.000Z",
-    "end": "2019-04-19T18:30:00.000Z",
-    "name": "Good Friday",
-    "type": "public",
-    "rule": "easter -2",
-    "_weekday": "Fri"
-  },
-  {
     "date": "2019-06-04 00:00:00 -0600",
     "start": "2019-06-03T12:30:00.000Z",
     "end": "2019-06-04T12:30:00.000Z",
@@ -45,39 +36,12 @@
     "_weekday": "Thu"
   },
   {
-    "date": "2019-09-09 00:00:00 -0600",
-    "start": "2019-09-08T12:30:00.000Z",
-    "end": "2019-09-09T12:30:00.000Z",
-    "name": "Day of Ashura",
-    "type": "public",
-    "rule": "10 Muharram",
-    "_weekday": "Mon"
-  },
-  {
     "date": "2019-10-02 00:00:00",
     "start": "2019-10-01T18:30:00.000Z",
     "end": "2019-10-02T18:30:00.000Z",
     "name": "गांधी जयंती",
     "type": "public",
     "rule": "10-02",
-    "_weekday": "Wed"
-  },
-  {
-    "date": "2019-11-09 00:00:00 -0600",
-    "start": "2019-11-08T12:30:00.000Z",
-    "end": "2019-11-09T12:30:00.000Z",
-    "name": "Birthday of Muhammad (Mawlid)",
-    "type": "public",
-    "rule": "12 Rabi al-awwal",
-    "_weekday": "Sat"
-  },
-  {
-    "date": "2019-12-25 00:00:00",
-    "start": "2019-12-24T18:30:00.000Z",
-    "end": "2019-12-25T18:30:00.000Z",
-    "name": "Christmas Day",
-    "type": "public",
-    "rule": "12-25",
     "_weekday": "Wed"
   }
 ]
