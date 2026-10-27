@@ -90,15 +90,6 @@
     "_weekday": "Mon"
   },
   {
-    "date": "2020-05-01 00:00:00",
-    "start": "2020-05-01T04:00:00.000Z",
-    "end": "2020-05-02T04:00:00.000Z",
-    "name": "Labour Day",
-    "type": "public",
-    "rule": "05-01",
-    "_weekday": "Fri"
-  },
-  {
     "date": "2020-05-10 00:00:00",
     "start": "2020-05-10T04:00:00.000Z",
     "end": "2020-05-11T04:00:00.000Z",
@@ -135,16 +126,6 @@
     "_weekday": "Fri"
   },
   {
-    "date": "2020-07-03 00:00:00",
-    "start": "2020-07-03T04:00:00.000Z",
-    "end": "2020-07-04T04:00:00.000Z",
-    "name": "Independence Day (substitute day)",
-    "type": "public",
-    "substitute": true,
-    "rule": "substitutes 07-04 if sunday then next monday if saturday then previous friday",
-    "_weekday": "Fri"
-  },
-  {
     "date": "2020-07-04 00:00:00",
     "start": "2020-07-04T04:00:00.000Z",
     "end": "2020-07-05T04:00:00.000Z",
@@ -160,6 +141,24 @@
     "name": "Hurricane Supplication Day",
     "type": "public",
     "rule": "4th Monday in July",
+    "_weekday": "Mon"
+  },
+  {
+    "date": "2020-09-07 00:00:00",
+    "start": "2020-09-07T04:00:00.000Z",
+    "end": "2020-09-08T04:00:00.000Z",
+    "name": "Labor Day",
+    "type": "public",
+    "rule": "1st monday in September",
+    "_weekday": "Mon"
+  },
+  {
+    "date": "2020-10-12 00:00:00",
+    "start": "2020-10-12T04:00:00.000Z",
+    "end": "2020-10-13T04:00:00.000Z",
+    "name": "Indigenous Peoples' Day",
+    "type": "observance",
+    "rule": "2nd monday in October #1",
     "_weekday": "Mon"
   },
   {
@@ -224,15 +223,6 @@
     "type": "school",
     "rule": "friday after 4th thursday in November",
     "_weekday": "Fri"
-  },
-  {
-    "date": "2020-12-24 00:00:00",
-    "start": "2020-12-24T04:00:00.000Z",
-    "end": "2020-12-25T04:00:00.000Z",
-    "name": "Christmas Eve",
-    "type": "optional",
-    "rule": "12-24",
-    "_weekday": "Thu"
   },
   {
     "date": "2020-12-25 00:00:00",

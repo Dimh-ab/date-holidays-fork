@@ -11,10 +11,7 @@ holidays:
     zones:
       - Asia/Kabul
     days:
-      02-15:
-        name:
-          en: Liberation Day
-          sv: Liberation Day
+      02-15: false
       03-21:
         name:
           en: Nowruz
@@ -32,10 +29,7 @@ holidays:
         name:
           en: American Withdrawal Day
           sv: American Withdrawal Day
-      09-09:
-        name:
-          en: Martyrs' Day
-          sv: Martyrs' Day
+      09-09: false
       "1 Shawwal":
         _name: 1 Shawwal
       "9 Dhu al-Hijjah":

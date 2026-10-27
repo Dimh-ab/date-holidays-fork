@@ -63,15 +63,6 @@
     "_weekday": "Sun"
   },
   {
-    "date": "2021-05-01 00:00:00",
-    "start": "2021-05-01T04:00:00.000Z",
-    "end": "2021-05-02T04:00:00.000Z",
-    "name": "Labor Day",
-    "type": "public",
-    "rule": "05-01",
-    "_weekday": "Sat"
-  },
-  {
     "date": "2021-05-09 00:00:00",
     "start": "2021-05-09T04:00:00.000Z",
     "end": "2021-05-10T04:00:00.000Z",
@@ -136,13 +127,12 @@
     "_weekday": "Sun"
   },
   {
-    "date": "2021-07-05 00:00:00",
-    "start": "2021-07-05T04:00:00.000Z",
-    "end": "2021-07-06T04:00:00.000Z",
-    "name": "Independence Day (substitute day)",
+    "date": "2021-09-06 00:00:00",
+    "start": "2021-09-06T04:00:00.000Z",
+    "end": "2021-09-07T04:00:00.000Z",
+    "name": "Labor Day",
     "type": "public",
-    "substitute": true,
-    "rule": "substitutes 07-04 if sunday then next monday if saturday then previous friday",
+    "rule": "1st monday in September",
     "_weekday": "Mon"
   },
   {
@@ -152,6 +142,15 @@
     "name": "Columbus Day",
     "type": "public",
     "rule": "2nd monday in October",
+    "_weekday": "Mon"
+  },
+  {
+    "date": "2021-10-11 00:00:00",
+    "start": "2021-10-11T04:00:00.000Z",
+    "end": "2021-10-12T04:00:00.000Z",
+    "name": "Indigenous Peoples' Day",
+    "type": "observance",
+    "rule": "2nd monday in October #1",
     "_weekday": "Mon"
   },
   {
@@ -185,15 +184,6 @@
     "date": "2021-11-26 00:00:00",
     "start": "2021-11-26T05:00:00.000Z",
     "end": "2021-11-27T05:00:00.000Z",
-    "name": "Day after Thanksgiving Day",
-    "type": "observance",
-    "rule": "friday after 4th thursday in November",
-    "_weekday": "Fri"
-  },
-  {
-    "date": "2021-11-26 00:00:00",
-    "start": "2021-11-26T05:00:00.000Z",
-    "end": "2021-11-27T05:00:00.000Z",
     "name": "Lincoln's Day",
     "type": "public",
     "rule": "4th friday in November",
@@ -207,15 +197,6 @@
     "type": "public",
     "substitute": true,
     "rule": "12-25 and if sunday then next monday if saturday then previous friday",
-    "_weekday": "Fri"
-  },
-  {
-    "date": "2021-12-24 00:00:00",
-    "start": "2021-12-24T05:00:00.000Z",
-    "end": "2021-12-25T05:00:00.000Z",
-    "name": "Christmas Eve",
-    "type": "optional",
-    "rule": "12-24",
     "_weekday": "Fri"
   },
   {

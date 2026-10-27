@@ -20,11 +20,7 @@ holidays:
           ar: "عيد مار مارون"
           en: "Saint Maroun's Day"
           sv: "Sankt Marouns dag"
-      02-14:
-        name:
-          ar: "ذكرى رفيق الحريري"
-          en: "Rafic Hariri Memorial Day"
-          sv: "Rafiq Hariri"
+      02-14: false
       03-25:
         name:
           ar: "عيد البشارة"

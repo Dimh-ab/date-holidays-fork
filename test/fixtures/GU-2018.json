@@ -54,15 +54,6 @@
     "_weekday": "Sun"
   },
   {
-    "date": "2018-05-01 00:00:00",
-    "start": "2018-04-30T14:00:00.000Z",
-    "end": "2018-05-01T14:00:00.000Z",
-    "name": "Labor Day",
-    "type": "public",
-    "rule": "05-01",
-    "_weekday": "Tue"
-  },
-  {
     "date": "2018-05-13 00:00:00",
     "start": "2018-05-12T14:00:00.000Z",
     "end": "2018-05-13T14:00:00.000Z",
@@ -108,12 +99,30 @@
     "_weekday": "Sat"
   },
   {
+    "date": "2018-09-03 00:00:00",
+    "start": "2018-09-02T14:00:00.000Z",
+    "end": "2018-09-03T14:00:00.000Z",
+    "name": "Labor Day",
+    "type": "public",
+    "rule": "1st monday in September",
+    "_weekday": "Mon"
+  },
+  {
     "date": "2018-10-08 00:00:00",
     "start": "2018-10-07T14:00:00.000Z",
     "end": "2018-10-08T14:00:00.000Z",
     "name": "Columbus Day",
     "type": "public",
     "rule": "2nd monday in October",
+    "_weekday": "Mon"
+  },
+  {
+    "date": "2018-10-08 00:00:00",
+    "start": "2018-10-07T14:00:00.000Z",
+    "end": "2018-10-08T14:00:00.000Z",
+    "name": "Indigenous Peoples' Day",
+    "type": "observance",
+    "rule": "2nd monday in October #1",
     "_weekday": "Mon"
   },
   {
@@ -164,15 +173,6 @@
     "_weekday": "Thu"
   },
   {
-    "date": "2018-11-23 00:00:00",
-    "start": "2018-11-22T14:00:00.000Z",
-    "end": "2018-11-23T14:00:00.000Z",
-    "name": "Day after Thanksgiving Day",
-    "type": "observance",
-    "rule": "friday after 4th thursday in November",
-    "_weekday": "Fri"
-  },
-  {
     "date": "2018-12-08 00:00:00",
     "start": "2018-12-07T14:00:00.000Z",
     "end": "2018-12-08T14:00:00.000Z",
@@ -180,15 +180,6 @@
     "type": "public",
     "rule": "12-08 if sunday then next monday",
     "_weekday": "Sat"
-  },
-  {
-    "date": "2018-12-24 00:00:00",
-    "start": "2018-12-23T14:00:00.000Z",
-    "end": "2018-12-24T14:00:00.000Z",
-    "name": "Christmas Eve",
-    "type": "optional",
-    "rule": "12-24",
-    "_weekday": "Mon"
   },
   {
     "date": "2018-12-25 00:00:00",

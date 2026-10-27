@@ -88,18 +88,22 @@
         type: observance
       07-04:
         _name: Independence Day
-      substitutes 07-04 if sunday then next monday if saturday then previous friday:
-        substitute: true
-        _name: Independence Day
-        disable:
-          - 2026-07-03
-      05-01:
-        _name: 05-01
+      substitutes 07-04 if sunday then next monday if saturday then previous friday: false
+      05-01: false
+      1st monday in September:
+        name:
+          en: Labor Day
+          sv: Labor Day
       2nd monday in October:
         name:
           en: Columbus Day
           sv: Columbusdagen
           es: Descubrimiento de América
+      "2nd monday in October #1":
+        name:
+          en: Indigenous Peoples' Day
+          sv: Urfolkens dag
+        type: observance
       10-31 18:00:
         name:
           en: Halloween
@@ -129,15 +133,8 @@
           en: Thanksgiving Day
           sv: Thanksgiving
           es: Acción de Gracias
-      friday after 4th thursday in November:
-        name:
-          en: Day after Thanksgiving Day
-          sv: Thanksgiving Classic
-          es: Dia despues Acción de Gracias
-        type: observance
-      12-24:
-        _name: 12-24
-        type: optional
+      friday after 4th thursday in November: false
+      12-24: false
       12-25 and if sunday then next monday if saturday then previous friday:
         substitute: true
         _name: 12-25
@@ -718,6 +715,7 @@
               en: Presidents Day
               sv: Washington's Birthday
           2nd monday in October: false
+          "2nd monday in October #1": false
           # @source https://www.reviewjournal.com/news/2017-legislature/nevada-may-soon-recognize-indigenous-peoples-day/
           08-09:
             name:
@@ -1122,4 +1120,3 @@
             name:
               en: President's Day
               sv: Washington's Birthday
-

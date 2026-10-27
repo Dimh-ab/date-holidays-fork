@@ -54,15 +54,6 @@
     "_weekday": "Fri"
   },
   {
-    "date": "2026-05-01 00:00:00",
-    "start": "2026-05-01T11:00:00.000Z",
-    "end": "2026-05-02T11:00:00.000Z",
-    "name": "Labour Day",
-    "type": "public",
-    "rule": "05-01",
-    "_weekday": "Fri"
-  },
-  {
     "date": "2026-05-10 00:00:00",
     "start": "2026-05-10T11:00:00.000Z",
     "end": "2026-05-11T11:00:00.000Z",
@@ -118,6 +109,15 @@
     "_weekday": "Thu"
   },
   {
+    "date": "2026-09-07 00:00:00",
+    "start": "2026-09-07T11:00:00.000Z",
+    "end": "2026-09-08T11:00:00.000Z",
+    "name": "Labor Day",
+    "type": "public",
+    "rule": "1st monday in September",
+    "_weekday": "Mon"
+  },
+  {
     "date": "2026-10-11 00:00:00",
     "start": "2026-10-11T11:00:00.000Z",
     "end": "2026-10-12T11:00:00.000Z",
@@ -134,6 +134,15 @@
     "name": "Columbus Day",
     "type": "public",
     "rule": "2nd monday in October",
+    "_weekday": "Mon"
+  },
+  {
+    "date": "2026-10-12 00:00:00",
+    "start": "2026-10-12T11:00:00.000Z",
+    "end": "2026-10-13T11:00:00.000Z",
+    "name": "Indigenous Peoples' Day",
+    "type": "observance",
+    "rule": "2nd monday in October #1",
     "_weekday": "Mon"
   },
   {
@@ -161,24 +170,6 @@
     "name": "Thanksgiving Day",
     "type": "public",
     "rule": "4th thursday in November",
-    "_weekday": "Thu"
-  },
-  {
-    "date": "2026-11-27 00:00:00",
-    "start": "2026-11-27T11:00:00.000Z",
-    "end": "2026-11-28T11:00:00.000Z",
-    "name": "Day after Thanksgiving Day",
-    "type": "observance",
-    "rule": "friday after 4th thursday in November",
-    "_weekday": "Fri"
-  },
-  {
-    "date": "2026-12-24 00:00:00",
-    "start": "2026-12-24T11:00:00.000Z",
-    "end": "2026-12-25T11:00:00.000Z",
-    "name": "Christmas Eve",
-    "type": "optional",
-    "rule": "12-24",
     "_weekday": "Thu"
   },
   {

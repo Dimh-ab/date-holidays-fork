@@ -27,10 +27,7 @@ holidays:
         name:
           en: Africa Day
           sv: Afrikadagen
-      07-22:
-        name:
-          en: Revolution Day
-          sv: Revolutionsdagen
+      07-22: false
       08-15:
         _name: 08-15
       12-25:

@@ -90,15 +90,6 @@
     "_weekday": "Mon"
   },
   {
-    "date": "2022-05-01 00:00:00",
-    "start": "2022-05-01T04:00:00.000Z",
-    "end": "2022-05-02T04:00:00.000Z",
-    "name": "Labour Day",
-    "type": "public",
-    "rule": "05-01",
-    "_weekday": "Sun"
-  },
-  {
     "date": "2022-05-08 00:00:00",
     "start": "2022-05-08T04:00:00.000Z",
     "end": "2022-05-09T04:00:00.000Z",
@@ -172,6 +163,24 @@
     "_weekday": "Mon"
   },
   {
+    "date": "2022-09-05 00:00:00",
+    "start": "2022-09-05T04:00:00.000Z",
+    "end": "2022-09-06T04:00:00.000Z",
+    "name": "Labor Day",
+    "type": "public",
+    "rule": "1st monday in September",
+    "_weekday": "Mon"
+  },
+  {
+    "date": "2022-10-10 00:00:00",
+    "start": "2022-10-10T04:00:00.000Z",
+    "end": "2022-10-11T04:00:00.000Z",
+    "name": "Indigenous Peoples' Day",
+    "type": "observance",
+    "rule": "2nd monday in October #1",
+    "_weekday": "Mon"
+  },
+  {
     "date": "2022-10-10 00:00:00",
     "start": "2022-10-10T04:00:00.000Z",
     "end": "2022-10-11T04:00:00.000Z",
@@ -224,15 +233,6 @@
     "type": "school",
     "rule": "friday after 4th thursday in November",
     "_weekday": "Fri"
-  },
-  {
-    "date": "2022-12-24 00:00:00",
-    "start": "2022-12-24T04:00:00.000Z",
-    "end": "2022-12-25T04:00:00.000Z",
-    "name": "Christmas Eve",
-    "type": "optional",
-    "rule": "12-24",
-    "_weekday": "Sat"
   },
   {
     "date": "2022-12-25 00:00:00",

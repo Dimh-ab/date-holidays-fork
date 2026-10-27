@@ -54,15 +54,6 @@
     "_weekday": "Sat"
   },
   {
-    "date": "2027-05-01 00:00:00",
-    "start": "2027-05-01T11:00:00.000Z",
-    "end": "2027-05-02T11:00:00.000Z",
-    "name": "Labour Day",
-    "type": "public",
-    "rule": "05-01",
-    "_weekday": "Sat"
-  },
-  {
     "date": "2027-05-09 00:00:00",
     "start": "2027-05-09T11:00:00.000Z",
     "end": "2027-05-10T11:00:00.000Z",
@@ -118,16 +109,6 @@
     "_weekday": "Sun"
   },
   {
-    "date": "2027-07-05 00:00:00",
-    "start": "2027-07-05T11:00:00.000Z",
-    "end": "2027-07-06T11:00:00.000Z",
-    "name": "Independence Day (substitute day)",
-    "type": "public",
-    "substitute": true,
-    "rule": "substitutes 07-04 if sunday then next monday if saturday then previous friday",
-    "_weekday": "Mon"
-  },
-  {
     "date": "2027-07-16 00:00:00",
     "start": "2027-07-16T11:00:00.000Z",
     "end": "2027-07-17T11:00:00.000Z",
@@ -136,6 +117,15 @@
     "note": "Goverment offices closed",
     "rule": "07-16",
     "_weekday": "Fri"
+  },
+  {
+    "date": "2027-09-06 00:00:00",
+    "start": "2027-09-06T11:00:00.000Z",
+    "end": "2027-09-07T11:00:00.000Z",
+    "name": "Labor Day",
+    "type": "public",
+    "rule": "1st monday in September",
+    "_weekday": "Mon"
   },
   {
     "date": "2027-10-10 00:00:00",
@@ -154,6 +144,15 @@
     "name": "Columbus Day",
     "type": "public",
     "rule": "2nd monday in October",
+    "_weekday": "Mon"
+  },
+  {
+    "date": "2027-10-11 00:00:00",
+    "start": "2027-10-11T11:00:00.000Z",
+    "end": "2027-10-12T11:00:00.000Z",
+    "name": "Indigenous Peoples' Day",
+    "type": "observance",
+    "rule": "2nd monday in October #1",
     "_weekday": "Mon"
   },
   {
@@ -184,15 +183,6 @@
     "_weekday": "Thu"
   },
   {
-    "date": "2027-11-26 00:00:00",
-    "start": "2027-11-26T11:00:00.000Z",
-    "end": "2027-11-27T11:00:00.000Z",
-    "name": "Day after Thanksgiving Day",
-    "type": "observance",
-    "rule": "friday after 4th thursday in November",
-    "_weekday": "Fri"
-  },
-  {
     "date": "2027-12-24 00:00:00",
     "start": "2027-12-24T11:00:00.000Z",
     "end": "2027-12-25T11:00:00.000Z",
@@ -200,15 +190,6 @@
     "type": "public",
     "substitute": true,
     "rule": "12-25 and if sunday then next monday if saturday then previous friday",
-    "_weekday": "Fri"
-  },
-  {
-    "date": "2027-12-24 00:00:00",
-    "start": "2027-12-24T11:00:00.000Z",
-    "end": "2027-12-25T11:00:00.000Z",
-    "name": "Christmas Eve",
-    "type": "optional",
-    "rule": "12-24",
     "_weekday": "Fri"
   },
   {
