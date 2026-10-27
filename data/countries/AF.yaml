@@ -17,18 +17,12 @@ holidays:
           en: Nowruz
           sv: Nouruz
       # @source https://en.wikipedia.org/wiki/Mujahideen_Victory_Day
-      04-28:
-        name:
-          en: Mujahideen Victory Day
-          sv: Mujahideen Victory Day
+      04-28: false
       05-01: false
       08-15: false
       # @source https://en.wikipedia.org/wiki/Afghan_Independence_Day
       08-19: false
-      08-31:
-        name:
-          en: American Withdrawal Day
-          sv: American Withdrawal Day
+      08-31: false
       09-09: false
       "1 Shawwal":
         _name: 1 Shawwal

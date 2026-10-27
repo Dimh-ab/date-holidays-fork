@@ -32,11 +32,7 @@ holidays:
           fa: نوروز
           en: Nowruz
           sv: Nouruz
-      12 Farvardin:
-        name:
-          fa: روز جمهوری اسلامی
-          en: Islamic Republic Day
-          sv: Islamiska republikens dag
+      12 Farvardin: false
       13 Farvardin:
         name:
           fa: سیزده بدر
