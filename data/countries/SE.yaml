@@ -80,8 +80,7 @@ holidays:
           sv: Knäckebrödets dag
           en: Crispbread Day
         type: observance
-      easter -48:
-        _name: easter -48
+      easter -48: false
       easter -47:
         _name: easter -47
       easter -46:
@@ -341,6 +340,12 @@ holidays:
         name:
           sv: Offentliga måltidens dag
           en: Public Meal Day
+        type: observance
+      # @source https://sjomatsframjandet.se
+      10-19:
+        name:
+          sv: Sjömatens dag
+          en: Seafood Day
         type: observance
       # @source https://sv.wikipedia.org/wiki/Potatis
       10-26:

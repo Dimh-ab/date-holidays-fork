@@ -24,14 +24,10 @@ holidays:
         name:
           en: Mujahideen Victory Day
           sv: Mujahideen Victory Day
-      05-01:
-        _name: 05-01
+      05-01: false
       08-15: false
       # @source https://en.wikipedia.org/wiki/Afghan_Independence_Day
-      08-19:
-        name:
-          en: Afghan Independence Day
-          sv: Afghan Independence Day
+      08-19: false
       08-31:
         name:
           en: American Withdrawal Day
@@ -49,4 +45,6 @@ holidays:
       "10 Muharram":
         _name: 10 Muharram
       "12 Rabi al-awwal":
-        _name: 12 Rabi al-awwal
+        name:
+          en: Meulud
+          sv: Meulud
