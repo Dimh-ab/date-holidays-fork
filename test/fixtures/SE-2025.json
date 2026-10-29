@@ -300,18 +300,18 @@
     "date": "2025-04-20 00:00:00",
     "start": "2025-04-19T22:00:00.000Z",
     "end": "2025-04-20T22:00:00.000Z",
-    "name": "Polkagrisens dag",
+    "name": "Påskdagen",
     "type": "observance",
-    "rule": "04-20",
+    "rule": "easter",
     "_weekday": "Sun"
   },
   {
     "date": "2025-04-20 00:00:00",
     "start": "2025-04-19T22:00:00.000Z",
     "end": "2025-04-20T22:00:00.000Z",
-    "name": "Påskdagen",
+    "name": "Polkagrisens dag",
     "type": "observance",
-    "rule": "easter",
+    "rule": "04-20",
     "_weekday": "Sun"
   },
   {
@@ -390,7 +390,7 @@
     "date": "2025-05-29 00:00:00",
     "start": "2025-05-28T22:00:00.000Z",
     "end": "2025-05-29T22:00:00.000Z",
-    "name": "Kristi himmelfärdsdag",
+    "name": "Kristi himmelsfärdsdag",
     "type": "public",
     "rule": "easter 39",
     "_weekday": "Thu"
