@@ -189,6 +189,9 @@ holidays:
         type: observance
       easter 39:
         _name: easter 39
+        name:
+          sv: Kristi himmelsfärdsdag
+          en: Ascension Day
       easter 48:
         name:
           sv: Pingstafton
