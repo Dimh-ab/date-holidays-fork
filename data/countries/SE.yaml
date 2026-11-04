@@ -200,9 +200,6 @@ holidays:
       easter 49:
         _name: easter 49
         type: public
-      easter 50:
-        _name: easter 50
-        type: observance
       sunday before 06-01:
         _name: Mothers Day
         type: observance
