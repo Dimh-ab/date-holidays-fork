@@ -26,12 +26,11 @@ holidays:
       03-08:
         _name: Mothers Day
         type: observance
-      03-14 and if sunday then next monday:
+      03-14:
         name:
           sq: Dita e Verës
           en: Summer Day
           sv: Summer Day
-        substitute: true
       03-22 and if sunday then next monday:
         name:
           sq: Dita e Sulltan Nevruzit
@@ -41,21 +40,13 @@ holidays:
       04-01:
         _name: 04-01
         type: observance
-      easter:
-        name:
-          sq: Pashkët Katolike
-          en: Catholic Easter
-          sv: Katolsk Påsk
+      easter: false
       easter 1:
         name:
           sq: Pashkët Katolike
           en: Catholic Easter
           sv: Katolsk Påsk
-      orthodox:
-        name:
-          sq: Pashkët Ortodokse
-          en: Orthodox Easter
-          sv: Ortodox Påsk
+      orthodox: false
       orthodox 1:
         name:
           sq: Pashkët Ortodokse
@@ -89,9 +80,8 @@ holidays:
           en: Independence Day (Albania)
           sv: Albanska flaggans dag
         substitute: true
-      11-29 and if sunday then next monday:
+      11-29:
         _name: Liberation Day
-        substitute: true
       12-08 and if sunday then next monday:
         name:
           sq: Dita Kombëtare e Rinisë
@@ -100,9 +90,7 @@ holidays:
         substitute: true
         active:
           - from: 2010
-      12-24:
-        _name: 12-24
-        type: bank
+      12-24: false
       12-25 and if sunday then next monday:
         _name: 12-25
         substitute: true

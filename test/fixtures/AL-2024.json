@@ -32,7 +32,7 @@
     "end": "2024-03-14T23:00:00.000Z",
     "name": "Dita e Verës",
     "type": "public",
-    "rule": "03-14 and if sunday then next monday",
+    "rule": "03-14",
     "_weekday": "Thu"
   },
   {
@@ -43,15 +43,6 @@
     "type": "public",
     "rule": "03-22 and if sunday then next monday",
     "_weekday": "Fri"
-  },
-  {
-    "date": "2024-03-31 00:00:00",
-    "start": "2024-03-30T23:00:00.000Z",
-    "end": "2024-03-31T22:00:00.000Z",
-    "name": "Pashkët Katolike",
-    "type": "public",
-    "rule": "easter",
-    "_weekday": "Sun"
   },
   {
     "date": "2024-04-01 00:00:00",
@@ -88,15 +79,6 @@
     "type": "public",
     "rule": "05-01 and if sunday then next monday",
     "_weekday": "Wed"
-  },
-  {
-    "date": "2024-05-05 00:00:00",
-    "start": "2024-05-04T22:00:00.000Z",
-    "end": "2024-05-05T22:00:00.000Z",
-    "name": "Pashkët Ortodokse",
-    "type": "public",
-    "rule": "orthodox",
-    "_weekday": "Sun"
   },
   {
     "date": "2024-05-06 00:00:00",
@@ -158,7 +140,7 @@
     "end": "2024-11-29T23:00:00.000Z",
     "name": "Dita e Çlirimit",
     "type": "public",
-    "rule": "11-29 and if sunday then next monday",
+    "rule": "11-29",
     "_weekday": "Fri"
   },
   {
@@ -179,15 +161,6 @@
     "substitute": true,
     "rule": "12-08 and if sunday then next monday",
     "_weekday": "Mon"
-  },
-  {
-    "date": "2024-12-24 00:00:00",
-    "start": "2024-12-23T23:00:00.000Z",
-    "end": "2024-12-24T23:00:00.000Z",
-    "name": "Nata e Krishtlindjes",
-    "type": "bank",
-    "rule": "12-24",
-    "_weekday": "Tue"
   },
   {
     "date": "2024-12-25 00:00:00",

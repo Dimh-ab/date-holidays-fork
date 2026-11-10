@@ -32,7 +32,7 @@
     "end": "2016-03-14T23:00:00.000Z",
     "name": "Dita e Verës",
     "type": "public",
-    "rule": "03-14 and if sunday then next monday",
+    "rule": "03-14",
     "_weekday": "Mon"
   },
   {
@@ -43,15 +43,6 @@
     "type": "public",
     "rule": "03-22 and if sunday then next monday",
     "_weekday": "Tue"
-  },
-  {
-    "date": "2016-03-27 00:00:00",
-    "start": "2016-03-26T23:00:00.000Z",
-    "end": "2016-03-27T22:00:00.000Z",
-    "name": "Pashkët Katolike",
-    "type": "public",
-    "rule": "easter",
-    "_weekday": "Sun"
   },
   {
     "date": "2016-03-28 00:00:00",
@@ -78,15 +69,6 @@
     "name": "Dita Ndërkombëtare e Punonjësve",
     "type": "public",
     "rule": "05-01 and if sunday then next monday",
-    "_weekday": "Sun"
-  },
-  {
-    "date": "2016-05-01 00:00:00",
-    "start": "2016-04-30T22:00:00.000Z",
-    "end": "2016-05-01T22:00:00.000Z",
-    "name": "Pashkët Ortodokse",
-    "type": "public",
-    "rule": "orthodox",
     "_weekday": "Sun"
   },
   {
@@ -168,7 +150,7 @@
     "end": "2016-11-29T23:00:00.000Z",
     "name": "Dita e Çlirimit",
     "type": "public",
-    "rule": "11-29 and if sunday then next monday",
+    "rule": "11-29",
     "_weekday": "Tue"
   },
   {
@@ -179,15 +161,6 @@
     "type": "public",
     "rule": "12-08 and if sunday then next monday",
     "_weekday": "Thu"
-  },
-  {
-    "date": "2016-12-24 00:00:00",
-    "start": "2016-12-23T23:00:00.000Z",
-    "end": "2016-12-24T23:00:00.000Z",
-    "name": "Nata e Krishtlindjes",
-    "type": "bank",
-    "rule": "12-24",
-    "_weekday": "Sat"
   },
   {
     "date": "2016-12-25 00:00:00",

@@ -32,7 +32,7 @@
     "end": "2025-03-14T23:00:00.000Z",
     "name": "Dita e Verës",
     "type": "public",
-    "rule": "03-14 and if sunday then next monday",
+    "rule": "03-14",
     "_weekday": "Fri"
   },
   {
@@ -61,24 +61,6 @@
     "type": "observance",
     "rule": "04-01",
     "_weekday": "Tue"
-  },
-  {
-    "date": "2025-04-20 00:00:00",
-    "start": "2025-04-19T22:00:00.000Z",
-    "end": "2025-04-20T22:00:00.000Z",
-    "name": "Pashkët Katolike",
-    "type": "public",
-    "rule": "easter",
-    "_weekday": "Sun"
-  },
-  {
-    "date": "2025-04-20 00:00:00",
-    "start": "2025-04-19T22:00:00.000Z",
-    "end": "2025-04-20T22:00:00.000Z",
-    "name": "Pashkët Ortodokse",
-    "type": "public",
-    "rule": "orthodox",
-    "_weekday": "Sun"
   },
   {
     "date": "2025-04-21 00:00:00",
@@ -168,7 +150,7 @@
     "end": "2025-11-29T23:00:00.000Z",
     "name": "Dita e Çlirimit",
     "type": "public",
-    "rule": "11-29 and if sunday then next monday",
+    "rule": "11-29",
     "_weekday": "Sat"
   },
   {
@@ -179,15 +161,6 @@
     "type": "public",
     "rule": "12-08 and if sunday then next monday",
     "_weekday": "Mon"
-  },
-  {
-    "date": "2025-12-24 00:00:00",
-    "start": "2025-12-23T23:00:00.000Z",
-    "end": "2025-12-24T23:00:00.000Z",
-    "name": "Nata e Krishtlindjes",
-    "type": "bank",
-    "rule": "12-24",
-    "_weekday": "Wed"
   },
   {
     "date": "2025-12-25 00:00:00",

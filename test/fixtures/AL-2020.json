@@ -32,7 +32,7 @@
     "end": "2020-03-14T23:00:00.000Z",
     "name": "Dita e Verës",
     "type": "public",
-    "rule": "03-14 and if sunday then next monday",
+    "rule": "03-14",
     "_weekday": "Sat"
   },
   {
@@ -64,15 +64,6 @@
     "_weekday": "Wed"
   },
   {
-    "date": "2020-04-12 00:00:00",
-    "start": "2020-04-11T22:00:00.000Z",
-    "end": "2020-04-12T22:00:00.000Z",
-    "name": "Pashkët Katolike",
-    "type": "public",
-    "rule": "easter",
-    "_weekday": "Sun"
-  },
-  {
     "date": "2020-04-13 00:00:00",
     "start": "2020-04-12T22:00:00.000Z",
     "end": "2020-04-13T22:00:00.000Z",
@@ -80,15 +71,6 @@
     "type": "public",
     "rule": "easter 1",
     "_weekday": "Mon"
-  },
-  {
-    "date": "2020-04-19 00:00:00",
-    "start": "2020-04-18T22:00:00.000Z",
-    "end": "2020-04-19T22:00:00.000Z",
-    "name": "Pashkët Ortodokse",
-    "type": "public",
-    "rule": "orthodox",
-    "_weekday": "Sun"
   },
   {
     "date": "2020-04-20 00:00:00",
@@ -168,18 +150,8 @@
     "end": "2020-11-29T23:00:00.000Z",
     "name": "Dita e Çlirimit",
     "type": "public",
-    "rule": "11-29 and if sunday then next monday",
+    "rule": "11-29",
     "_weekday": "Sun"
-  },
-  {
-    "date": "2020-11-30 00:00:00",
-    "start": "2020-11-29T23:00:00.000Z",
-    "end": "2020-11-30T23:00:00.000Z",
-    "name": "Dita e Çlirimit (ditë zëvendësuese)",
-    "type": "public",
-    "substitute": true,
-    "rule": "11-29 and if sunday then next monday",
-    "_weekday": "Mon"
   },
   {
     "date": "2020-12-08 00:00:00",
@@ -189,15 +161,6 @@
     "type": "public",
     "rule": "12-08 and if sunday then next monday",
     "_weekday": "Tue"
-  },
-  {
-    "date": "2020-12-24 00:00:00",
-    "start": "2020-12-23T23:00:00.000Z",
-    "end": "2020-12-24T23:00:00.000Z",
-    "name": "Nata e Krishtlindjes",
-    "type": "bank",
-    "rule": "12-24",
-    "_weekday": "Thu"
   },
   {
     "date": "2020-12-25 00:00:00",

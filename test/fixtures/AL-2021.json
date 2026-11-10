@@ -32,18 +32,8 @@
     "end": "2021-03-14T23:00:00.000Z",
     "name": "Dita e Verës",
     "type": "public",
-    "rule": "03-14 and if sunday then next monday",
+    "rule": "03-14",
     "_weekday": "Sun"
-  },
-  {
-    "date": "2021-03-15 00:00:00",
-    "start": "2021-03-14T23:00:00.000Z",
-    "end": "2021-03-15T23:00:00.000Z",
-    "name": "Dita e Verës (ditë zëvendësuese)",
-    "type": "public",
-    "substitute": true,
-    "rule": "03-14 and if sunday then next monday",
-    "_weekday": "Mon"
   },
   {
     "date": "2021-03-22 00:00:00",
@@ -64,15 +54,6 @@
     "_weekday": "Thu"
   },
   {
-    "date": "2021-04-04 00:00:00",
-    "start": "2021-04-03T22:00:00.000Z",
-    "end": "2021-04-04T22:00:00.000Z",
-    "name": "Pashkët Katolike",
-    "type": "public",
-    "rule": "easter",
-    "_weekday": "Sun"
-  },
-  {
     "date": "2021-04-05 00:00:00",
     "start": "2021-04-04T22:00:00.000Z",
     "end": "2021-04-05T22:00:00.000Z",
@@ -89,15 +70,6 @@
     "type": "public",
     "rule": "05-01 and if sunday then next monday",
     "_weekday": "Sat"
-  },
-  {
-    "date": "2021-05-02 00:00:00",
-    "start": "2021-05-01T22:00:00.000Z",
-    "end": "2021-05-02T22:00:00.000Z",
-    "name": "Pashkët Ortodokse",
-    "type": "public",
-    "rule": "orthodox",
-    "_weekday": "Sun"
   },
   {
     "date": "2021-05-03 00:00:00",
@@ -168,7 +140,7 @@
     "end": "2021-11-29T23:00:00.000Z",
     "name": "Dita e Çlirimit",
     "type": "public",
-    "rule": "11-29 and if sunday then next monday",
+    "rule": "11-29",
     "_weekday": "Mon"
   },
   {
@@ -189,15 +161,6 @@
     "type": "public",
     "rule": "12-08 and if sunday then next monday",
     "_weekday": "Wed"
-  },
-  {
-    "date": "2021-12-24 00:00:00",
-    "start": "2021-12-23T23:00:00.000Z",
-    "end": "2021-12-24T23:00:00.000Z",
-    "name": "Nata e Krishtlindjes",
-    "type": "bank",
-    "rule": "12-24",
-    "_weekday": "Fri"
   },
   {
     "date": "2021-12-25 00:00:00",
