@@ -62,7 +62,11 @@ holidays:
           sv: Ortodox nyår
       orthodox:
         _name: orthodox
-      julian 08-15: false
+      julian 08-15:
+        _name: 08-15
+        name:
+          sv: Ortodox Jungfru Marie himmelsfärds dag
+        note: orthodox
       julian 12-25:
         _name: julian 12-25
         name:
