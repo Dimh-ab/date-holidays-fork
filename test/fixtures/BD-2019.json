@@ -9,24 +9,6 @@
     "_weekday": "Thu"
   },
   {
-    "date": "2019-03-17 00:00:00",
-    "start": "2019-03-16T18:00:00.000Z",
-    "end": "2019-03-17T18:00:00.000Z",
-    "name": "মুজিব জয়ন",
-    "type": "public",
-    "rule": "bengali-revised 12-3",
-    "_weekday": "Sun"
-  },
-  {
-    "date": "2019-03-25 00:00:00",
-    "start": "2019-03-24T18:00:00.000Z",
-    "end": "2019-03-25T18:00:00.000Z",
-    "name": "Genocide Remembrance Day (Bangladesh)",
-    "type": "observance",
-    "rule": "03-25",
-    "_weekday": "Mon"
-  },
-  {
     "date": "2019-03-26 00:00:00",
     "start": "2019-03-25T18:00:00.000Z",
     "end": "2019-03-26T18:00:00.000Z",
@@ -81,15 +63,6 @@
     "_weekday": "Sun"
   },
   {
-    "date": "2019-08-15 00:00:00",
-    "start": "2019-08-14T18:00:00.000Z",
-    "end": "2019-08-15T18:00:00.000Z",
-    "name": "জাতীয় শোক দিবস",
-    "type": "public",
-    "rule": "bengali-revised 4-31",
-    "_weekday": "Thu"
-  },
-  {
     "date": "2019-08-24 00:00:00",
     "start": "2019-08-23T18:00:00.000Z",
     "end": "2019-08-24T18:00:00.000Z",
@@ -124,15 +97,6 @@
     "type": "public",
     "rule": "12 Rabi al-awwal",
     "_weekday": "Sat"
-  },
-  {
-    "date": "2019-11-21 00:00:00",
-    "start": "2019-11-20T18:00:00.000Z",
-    "end": "2019-11-21T18:00:00.000Z",
-    "name": "Armed Forces Day",
-    "type": "observance",
-    "rule": "11-21",
-    "_weekday": "Thu"
   },
   {
     "date": "2019-12-14 00:00:00",

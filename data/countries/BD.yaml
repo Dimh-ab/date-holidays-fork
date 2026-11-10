@@ -20,11 +20,7 @@ holidays:
           bn: শহীদ দিবস
           en: Language Martyrs' Day
           sv: Language Martyrs' Day
-      bengali-revised 12-3:
-        name:
-          bn: মুজিব জয়ন
-          en: Mujib's Birthday & Children's Day
-          sv: Mujib's Birthday & Children's Day
+      bengali-revised 12-3: false
       bengali-revised 12-12:
         name:
           bn: স্বাধীনতা দিবস
@@ -33,19 +29,15 @@ holidays:
       bengali-revised 1-1:
         name:
           bn: পহেলা বৈশাখ
-          en: Bengali New Year's Day
-          sv: Bengali New Year's Day
+          en: Bengali New Year's Day (Pohela Boishakh)
+          sv: Bengali New Year's Day (Pohela Boishakh)
       bengali-revised 1-18:
         _name: 05-01
         name:
           bn: মে দিবস
           en: May Day
           sv: Första maj
-      bengali-revised 4-31:
-        name:
-          bn: জাতীয় শোক দিবস
-          en: National Mourning Day
-          sv: National Mourning Day
+      bengali-revised 4-31: false
       bengali-revised 9-2:
         name:
           bn: বিজয় দিবস
@@ -56,28 +48,53 @@ holidays:
         _name: 10 Muharram
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
+        name:
+          bn: ঈদে মিলাদুন্নবী
+          en: Eid-e-Milad-un-Nabi
+          sv: Mawlid
+        disable:
+          - "2027-08-14"
+        enable:
+          - "2027-08-15"
       1 Shawwal P3D:
         _name: 1 Shawwal
+        name:
+          bn: ঈদুল ফিতর
+          en: Id-ul-Fitr
+          sv: Id al-Fitr
       10 Dhu al-Hijjah P3D:
         _name: 10 Dhu al-Hijjah
+        name:
+          bn: ঈদুল আযহা
+          en: Eid-ul-Azha
+          sv: Id al-adha
+        disable:
+          - "2027-05-16"
+      2027-05-17 P3D:
+        name:
+          bn: ঈদুল আযহা
+          en: Eid-ul-Azha
+          sv: Id al-adha
 
       05-19:
         name:
           bn: বুদ্ধ পূর্ণিমা
-          en: Buddha's Birthday
-          sv: Buddha's Birthday
+          en: Buddha Purnima (Vesak)
+          sv: Buddha Purnima (Vesak)
         enable:
           - "2016-05-21"
           - "2017-05-10"
           - "2018-04-29"
           - "2019-05-19"
           - "2020-05-07"
+          - "2027-05-20"
         disable:
           - "2016-05-19"
           - "2017-05-19"
           - "2018-05-19"
           - "2019-05-19"
           - "2020-05-19"
+          - "2027-05-19"
       08-24:
         name:
           bn: জন্মাষ্টমী
@@ -116,16 +133,8 @@ holidays:
       bengali-revised 9-11:
         _name: 12-25
 
-      03-25:
-        name:
-          en: Genocide Remembrance Day (Bangladesh)
-          sv: Genocide Remembrance Day (Bangladesh)
-        type: observance
-      11-21:
-        name:
-          en: Armed Forces Day
-          sv: Armed Forces Day
-        type: observance
+      03-25: false
+      11-21: false
       12-14:
         name:
           en: Martyred Intellectuals Day

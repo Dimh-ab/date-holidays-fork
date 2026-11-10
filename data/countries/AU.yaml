@@ -52,7 +52,9 @@ holidays:
       12-25 and if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 12-25
-      12-26: false
+      12-26 and if saturday then next monday if sunday then next tuesday:
+        substitute: true
+        _name: 12-26
     states:
       # @source https://www.legislation.act.gov.au/a/1958-19
       ACT:

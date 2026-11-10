@@ -9,24 +9,6 @@
     "_weekday": "Fri"
   },
   {
-    "date": "2020-03-17 00:00:00",
-    "start": "2020-03-16T18:00:00.000Z",
-    "end": "2020-03-17T18:00:00.000Z",
-    "name": "মুজিব জয়ন",
-    "type": "public",
-    "rule": "bengali-revised 12-3",
-    "_weekday": "Tue"
-  },
-  {
-    "date": "2020-03-25 00:00:00",
-    "start": "2020-03-24T18:00:00.000Z",
-    "end": "2020-03-25T18:00:00.000Z",
-    "name": "Genocide Remembrance Day (Bangladesh)",
-    "type": "observance",
-    "rule": "03-25",
-    "_weekday": "Wed"
-  },
-  {
     "date": "2020-03-26 00:00:00",
     "start": "2020-03-25T18:00:00.000Z",
     "end": "2020-03-26T18:00:00.000Z",
@@ -90,15 +72,6 @@
     "_weekday": "Tue"
   },
   {
-    "date": "2020-08-15 00:00:00",
-    "start": "2020-08-14T18:00:00.000Z",
-    "end": "2020-08-15T18:00:00.000Z",
-    "name": "জাতীয় শোক দিবস",
-    "type": "public",
-    "rule": "bengali-revised 4-31",
-    "_weekday": "Sat"
-  },
-  {
     "date": "2020-08-29 00:00:00 -0600",
     "start": "2020-08-28T12:00:00.000Z",
     "end": "2020-08-29T12:00:00.000Z",
@@ -124,15 +97,6 @@
     "type": "public",
     "rule": "12 Rabi al-awwal",
     "_weekday": "Thu"
-  },
-  {
-    "date": "2020-11-21 00:00:00",
-    "start": "2020-11-20T18:00:00.000Z",
-    "end": "2020-11-21T18:00:00.000Z",
-    "name": "Armed Forces Day",
-    "type": "observance",
-    "rule": "11-21",
-    "_weekday": "Sat"
   },
   {
     "date": "2020-12-14 00:00:00",
