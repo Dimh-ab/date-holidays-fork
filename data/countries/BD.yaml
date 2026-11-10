@@ -51,7 +51,7 @@ holidays:
         name:
           bn: ঈদে মিলাদুন্নবী
           en: Eid-e-Milad-un-Nabi
-          sv: Mawlid
+          sv: Eid-e-Milad-un-Nabi
         disable:
           - "2027-08-14"
         enable:
@@ -61,13 +61,13 @@ holidays:
         name:
           bn: ঈদুল ফিতর
           en: Id-ul-Fitr
-          sv: Id al-Fitr
+          sv: Id-ul-Fitr
       10 Dhu al-Hijjah P3D:
         _name: 10 Dhu al-Hijjah
         name:
           bn: ঈদুল আযহা
           en: Eid-ul-Azha
-          sv: Id al-adha
+          sv: Eid-ul-Azha
         disable:
           - "2027-05-16"
       2027-05-17 P3D:
