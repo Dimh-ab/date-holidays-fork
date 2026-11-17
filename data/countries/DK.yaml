@@ -44,8 +44,13 @@ holidays:
       # @source https://sv.wikipedia.org/wiki/Danmarks_grundlagsdag
       06-05:
         _name: Constitution Day
+        name:
+          sv: Grundlagsdag
         type: observance
         note: Shops are closed
+      "06-05 #1":
+        _name: Fathers Day
+        type: observance
       easter 49:
         _name: easter 49
       easter 50:

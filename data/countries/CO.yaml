@@ -17,9 +17,7 @@ holidays:
         _name: 01-06
       monday after 03-19:
         _name: 03-19
-      easter -7:
-        _name: easter -7
-        type: observance
+      easter -7: false
       easter -3:
         _name: easter -3
       easter -2:
@@ -55,11 +53,7 @@ holidays:
           sv: Columbusdagen
       1st monday in November:
         _name: 11-01
-      monday after 11-11:
-        name:
-          es: Independencia de Cartagena
-          en: Independence of Cartagena
-          sv: Cartagenas självständighetsdag
+      monday after 11-11: false
       12-08:
         _name: 12-08
       12-25:

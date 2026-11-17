@@ -53,7 +53,7 @@
       3rd monday in February:
         name:
           en: Washington's Birthday
-          sv: Washington's Birthday
+          sv: Presidents' Day
           es: Día de los Presidentes
       02-14:
         _name: 02-14
@@ -77,9 +77,8 @@
           en: Memorial Day
           sv: Memorial Day
           es: Recordación de los Muertos de la Guerra
-      06-19 and if sunday then next monday if saturday then previous friday since 2021:
+      06-19 since 2021:
         # @source https://www.congress.gov/bill/117th-congress/senate-bill/475
-        substitute: true
         name:
           en: Juneteenth
           sv: Juneteenth
@@ -102,7 +101,7 @@
       "2nd monday in October #1":
         name:
           en: Indigenous Peoples' Day
-          sv: Urfolkens dag
+          sv: Indigenous Peoples' Day
         type: observance
       10-31 18:00:
         name:

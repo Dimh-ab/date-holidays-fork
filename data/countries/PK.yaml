@@ -13,11 +13,7 @@ holidays:
     days:
       01-01:
         _name: 01-01
-      02-05:
-        name:
-          ur: "یوم یکجہتی کشمیر"
-          en: "Kashmir Solidarity Day"
-          sv: "Kashmir solidaritetsdagen"
+      02-05: false
       03-23:
         name:
           ur: "یوم پاکستان"

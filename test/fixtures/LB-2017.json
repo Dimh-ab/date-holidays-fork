@@ -12,7 +12,7 @@
     "date": "2017-01-06 00:00:00",
     "start": "2017-01-05T22:00:00.000Z",
     "end": "2017-01-06T22:00:00.000Z",
-    "name": "Epiphany",
+    "name": "Armenian Orthodox Christmas",
     "type": "public",
     "rule": "01-06",
     "_weekday": "Fri"
@@ -25,6 +25,15 @@
     "type": "public",
     "rule": "02-09",
     "_weekday": "Thu"
+  },
+  {
+    "date": "2017-03-21 00:00:00",
+    "start": "2017-03-20T22:00:00.000Z",
+    "end": "2017-03-21T22:00:00.000Z",
+    "name": "Mother's Day",
+    "type": "observance",
+    "rule": "03-21",
+    "_weekday": "Tue"
   },
   {
     "date": "2017-03-25 00:00:00",
@@ -54,6 +63,15 @@
     "_weekday": "Sun"
   },
   {
+    "date": "2017-04-16 00:00:00",
+    "start": "2017-04-15T21:00:00.000Z",
+    "end": "2017-04-16T21:00:00.000Z",
+    "name": "Orthodox Easter",
+    "type": "public",
+    "rule": "orthodox",
+    "_weekday": "Sun"
+  },
+  {
     "date": "2017-05-01 00:00:00",
     "start": "2017-04-30T21:00:00.000Z",
     "end": "2017-05-01T21:00:00.000Z",
@@ -61,15 +79,6 @@
     "type": "public",
     "rule": "05-01",
     "_weekday": "Mon"
-  },
-  {
-    "date": "2017-05-25 00:00:00",
-    "start": "2017-05-24T21:00:00.000Z",
-    "end": "2017-05-25T21:00:00.000Z",
-    "name": "عيد المقاومة والتحرير",
-    "type": "public",
-    "rule": "05-25",
-    "_weekday": "Thu"
   },
   {
     "date": "2017-06-25 00:00:00 -0600",

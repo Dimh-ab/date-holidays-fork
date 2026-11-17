@@ -21,20 +21,21 @@ holidays:
           en: Unification Day
           sv: Unionens dag
       03-08:
-        name:
-          ro: Ziua Mamei
+        _name: 03-08
         type: observance
       orthodox -2:
         _name: easter -2
+        name:
+          sv: Rumänsk-ortodoxa långfredagen
       orthodox:
         _name: easter
+        name:
+          sv: Rumänsk-ortodoxa påskdagen
       orthodox 1:
         _name: easter 1
       05-01:
         _name: 05-01
-      orthodox 39:
-        _name: easter 39
-        type: observance
+      orthodox 39: false
       orthodox 49:
         _name: easter 49
       orthodox 50:
@@ -71,10 +72,12 @@ holidays:
           ro: Ziua națională, Ziua Marii Uniri
           en: National holiday
           sv: Rumäniens nationaldag
-      12-08:
-        _name: Constitution Day
-        type: observance
+      12-08: false
       12-25:
         _name: 12-25
+        name:
+          sv: Rumänsk-ortodoxa juldagen
       12-26:
         _name: 12-26
+        name:
+          sv: Rumänsk-ortodoxa annandag jul

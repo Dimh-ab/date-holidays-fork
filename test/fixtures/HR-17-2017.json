@@ -129,16 +129,6 @@
     "_weekday": "Thu"
   },
   {
-    "date": "2017-06-25 00:00:00 -0600",
-    "start": "2017-06-24T16:00:00.000Z",
-    "end": "2017-06-25T16:00:00.000Z",
-    "name": "Ramazanski bajram",
-    "type": "optional",
-    "note": "Muslim believers",
-    "rule": "1 Shawwal",
-    "_weekday": "Sun"
-  },
-  {
     "date": "2017-06-25 00:00:00",
     "start": "2017-06-24T22:00:00.000Z",
     "end": "2017-06-25T22:00:00.000Z",
@@ -164,16 +154,6 @@
     "type": "public",
     "rule": "08-15",
     "_weekday": "Tue"
-  },
-  {
-    "date": "2017-09-01 00:00:00 -0600",
-    "start": "2017-08-31T16:00:00.000Z",
-    "end": "2017-09-01T16:00:00.000Z",
-    "name": "Kurban-bajram",
-    "type": "optional",
-    "note": "Muslim believers",
-    "rule": "10 Dhu al-Hijjah",
-    "_weekday": "Fri"
   },
   {
     "date": "2017-09-30 00:00:00 -0600",
@@ -211,6 +191,15 @@
     "type": "observance",
     "rule": "11-18 #1",
     "_weekday": "Sat"
+  },
+  {
+    "date": "2017-12-06 00:00:00",
+    "start": "2017-12-05T23:00:00.000Z",
+    "end": "2017-12-06T23:00:00.000Z",
+    "name": "Sveti Nikola",
+    "type": "observance",
+    "rule": "12-06",
+    "_weekday": "Wed"
   },
   {
     "date": "2017-12-25 00:00:00",

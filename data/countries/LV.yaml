@@ -19,6 +19,14 @@ holidays:
         _name: easter
       easter 1:
         _name: easter 1
+      julian 12-25:
+        _name: julian 12-25
+        name:
+          sv: Ortodox juldag
+      orthodox:
+        _name: orthodox
+      easter 49:
+        _name: easter 49
       05-01:
         _name: 05-01
       05-04 and if saturday,sunday then next monday:

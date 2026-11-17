@@ -41,7 +41,7 @@
     "end": "2017-05-01T23:00:00.000Z",
     "name": "Worker's Day",
     "type": "public",
-    "rule": "05-01 and if Saturday then next Monday",
+    "rule": "05-01",
     "_weekday": "Mon"
   },
   {

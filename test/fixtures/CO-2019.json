@@ -27,15 +27,6 @@
     "_weekday": "Mon"
   },
   {
-    "date": "2019-04-14 00:00:00",
-    "start": "2019-04-14T05:00:00.000Z",
-    "end": "2019-04-15T05:00:00.000Z",
-    "name": "Domingo de Ramos",
-    "type": "observance",
-    "rule": "easter -7",
-    "_weekday": "Sun"
-  },
-  {
     "date": "2019-04-18 00:00:00",
     "start": "2019-04-18T05:00:00.000Z",
     "end": "2019-04-19T05:00:00.000Z",
@@ -150,15 +141,6 @@
     "name": "Todos los Santos",
     "type": "public",
     "rule": "1st monday in November",
-    "_weekday": "Mon"
-  },
-  {
-    "date": "2019-11-11 00:00:00",
-    "start": "2019-11-11T05:00:00.000Z",
-    "end": "2019-11-12T05:00:00.000Z",
-    "name": "Independencia de Cartagena",
-    "type": "public",
-    "rule": "monday after 11-11",
     "_weekday": "Mon"
   },
   {

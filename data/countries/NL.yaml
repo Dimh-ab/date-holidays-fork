@@ -92,16 +92,11 @@ holidays:
           en: Queen's Day
           sv: Koningsdag
           de: Königinnentag
-      3rd tuesday in September:
-        name:
-          nl: Prinsjesdag
-          en: Prince's Day
-          sv: Prinsens dag
-          de: Prinzentag
-        note: Scholen in Den Haag geven meestal 1 dag vrij
-        type: observance
+      3rd tuesday in September: false
       11-11:
         _name: 11-11
+        name:
+          sv: Sankt Martins dag
         type: observance
       12-05:
         name:

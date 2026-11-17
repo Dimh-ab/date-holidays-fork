@@ -9,16 +9,6 @@
     "_weekday": "Fri"
   },
   {
-    "date": "2016-01-06 00:00:00",
-    "start": "2016-01-05T23:00:00.000Z",
-    "end": "2016-01-06T23:00:00.000Z",
-    "name": "Бадник",
-    "type": "optional",
-    "note": "Orthodox believers",
-    "rule": "julian 12-24",
-    "_weekday": "Wed"
-  },
-  {
     "date": "2016-01-07 00:00:00",
     "start": "2016-01-06T23:00:00.000Z",
     "end": "2016-01-07T23:00:00.000Z",
@@ -46,16 +36,6 @@
     "note": "For members of the Serbian community",
     "rule": "01-27",
     "_weekday": "Wed"
-  },
-  {
-    "date": "2016-03-28 00:00:00",
-    "start": "2016-03-27T22:00:00.000Z",
-    "end": "2016-03-28T22:00:00.000Z",
-    "name": "вториот ден на Велигден",
-    "type": "optional",
-    "note": "Catholic believers",
-    "rule": "easter 1",
-    "_weekday": "Mon"
   },
   {
     "date": "2016-04-08 00:00:00",
@@ -249,13 +229,13 @@
     "_weekday": "Mon"
   },
   {
-    "date": "2016-11-01 00:00:00",
-    "start": "2016-10-31T23:00:00.000Z",
-    "end": "2016-11-01T23:00:00.000Z",
-    "name": "Празникот на сите светци",
+    "date": "2016-11-22 00:00:00",
+    "start": "2016-11-21T23:00:00.000Z",
+    "end": "2016-11-22T23:00:00.000Z",
+    "name": "Ден на албанската азбука",
     "type": "optional",
-    "note": "Catholic believers",
-    "rule": "11-01",
+    "note": "For members of the Albanian community",
+    "rule": "11-22",
     "_weekday": "Tue"
   },
   {
@@ -268,13 +248,13 @@
     "_weekday": "Thu"
   },
   {
-    "date": "2016-12-25 00:00:00",
-    "start": "2016-12-24T23:00:00.000Z",
-    "end": "2016-12-25T23:00:00.000Z",
-    "name": "Католички Божиќ",
+    "date": "2016-12-21 00:00:00",
+    "start": "2016-12-20T23:00:00.000Z",
+    "end": "2016-12-21T23:00:00.000Z",
+    "name": "Ден на наставата на турски јазик",
     "type": "optional",
-    "note": "Catholic believers",
-    "rule": "12-25",
-    "_weekday": "Sun"
+    "note": "For members of the Turkish community",
+    "rule": "12-21",
+    "_weekday": "Wed"
   }
 ]

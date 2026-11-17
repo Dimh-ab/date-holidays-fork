@@ -50,7 +50,7 @@
     "end": "2025-05-01T23:00:00.000Z",
     "name": "Worker's Day",
     "type": "public",
-    "rule": "05-01 and if Saturday then next Monday",
+    "rule": "05-01",
     "_weekday": "Thu"
   },
   {
@@ -77,7 +77,7 @@
     "end": "2025-06-12T23:00:00.000Z",
     "name": "Democracy Day",
     "type": "public",
-    "rule": "06-12 and if Saturday then next Monday since 2018",
+    "rule": "06-12 since 2018",
     "_weekday": "Thu"
   },
   {

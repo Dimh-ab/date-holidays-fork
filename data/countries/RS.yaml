@@ -17,6 +17,8 @@ holidays:
         _name: 01-01
       julian 12-25:
         _name: julian 12-25
+        name:
+          sv: Ortodox juldag
       02-15 if sunday then next tuesday:
         name:
           sr: Дан државности Србије
@@ -29,10 +31,16 @@ holidays:
           sv: Serbiens nationaldag
       orthodox -2:
         _name: orthodox -2
+        name:
+          sv: Ortodox långfredag
       orthodox:
         _name: orthodox
+        name:
+          sv: Ortodox påskdag
       orthodox 1:
         _name: orthodox 1
+        name:
+          sv: Ortodox annandag påsk
       05-01 if sunday then next tuesday:
         _name: 05-01
       05-02 if sunday then next monday:
@@ -41,7 +49,7 @@ holidays:
         name:
           sr: Дан примирја
           en: Armistice Day
-          sv: Vapenvilodagen
+          sv: Vapenstilleståndsdagen
 
       easter -2:
         _name: easter -2
@@ -85,6 +93,12 @@ holidays:
           sr: Дан сећања на жртве холокауста
           en: Holocaust Remembrance Day
           sv: Förintelsens minnesdag
+        type: observance
+      julian 04-23:
+        name:
+          sr: Ђурђевдан
+          en: Saint George's Day
+          sv: Sankt Göran
         type: observance
       05-09:
         name:

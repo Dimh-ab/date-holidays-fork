@@ -27,8 +27,17 @@ holidays:
         _name: easter
       easter 1:
         _name: easter 1
+      04-30:
+        name:
+          fi: Vapunaatto
+          en: May Day Eve
+          sv: Vappu
+        type: observance
       05-01:
         _name: 05-01
+        name:
+          fi: Vappu
+          sv: Vappu
       easter 39:
         _name: easter 39
       easter 49:

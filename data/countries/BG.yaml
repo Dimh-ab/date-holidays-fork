@@ -52,12 +52,7 @@ holidays:
           sv: Enhetsdagen
       09-22:
         _name: Independence Day
-      11-01:
-        name:
-          bg: Ден на народните будители
-          en: Revival Leaders' Day
-          sv: Revival Leaders' Day
-        type: school
+      11-01: false
       12-24:
         _name: 12-24
       12-25:

@@ -12,7 +12,7 @@
     "date": "2021-01-06 00:00:00",
     "start": "2021-01-05T22:00:00.000Z",
     "end": "2021-01-06T22:00:00.000Z",
-    "name": "Epiphany",
+    "name": "Armenian Orthodox Christmas",
     "type": "public",
     "rule": "01-06",
     "_weekday": "Wed"
@@ -25,6 +25,15 @@
     "type": "public",
     "rule": "02-09",
     "_weekday": "Tue"
+  },
+  {
+    "date": "2021-03-21 00:00:00",
+    "start": "2021-03-20T22:00:00.000Z",
+    "end": "2021-03-21T22:00:00.000Z",
+    "name": "Mother's Day",
+    "type": "observance",
+    "rule": "03-21",
+    "_weekday": "Sun"
   },
   {
     "date": "2021-03-25 00:00:00",
@@ -63,6 +72,15 @@
     "_weekday": "Sat"
   },
   {
+    "date": "2021-05-02 00:00:00",
+    "start": "2021-05-01T21:00:00.000Z",
+    "end": "2021-05-02T21:00:00.000Z",
+    "name": "Orthodox Easter",
+    "type": "public",
+    "rule": "orthodox",
+    "_weekday": "Sun"
+  },
+  {
     "date": "2021-05-13 00:00:00 -0600",
     "start": "2021-05-12T15:00:00.000Z",
     "end": "2021-05-15T15:00:00.000Z",
@@ -70,15 +88,6 @@
     "type": "public",
     "rule": "1 Shawwal P3D",
     "_weekday": "Thu"
-  },
-  {
-    "date": "2021-05-25 00:00:00",
-    "start": "2021-05-24T21:00:00.000Z",
-    "end": "2021-05-25T21:00:00.000Z",
-    "name": "عيد المقاومة والتحرير",
-    "type": "public",
-    "rule": "05-25",
-    "_weekday": "Tue"
   },
   {
     "date": "2021-07-20 00:00:00 -0600",

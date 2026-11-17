@@ -25,7 +25,7 @@ holidays:
         name:
           no: Samefolkets dag
           en: Day of the Sami people
-          sv: Samefolkets dag
+          sv: Samernas nationaldag
         type: observance
       2nd sunday in February:
         _name: Mothers Day
@@ -53,6 +53,9 @@ holidays:
         _name: easter -3
       easter -2:
         _name: easter -2
+      easter -1:
+        _name: easter -1
+        type: observance
       easter:
         _name: easter
       easter 1:
@@ -67,6 +70,8 @@ holidays:
         type: observance
       05-17:
         _name: Constitution Day
+        name:
+          sv: Norges Nationaldag / Grunnlovsdagen
       easter 39:
         _name: easter 39
       easter 49:
@@ -83,7 +88,7 @@ holidays:
         name:
           no: Sankthansaften
           en: Midsummar Eve
-          sv: Midsommarafton
+          sv: Jonsok / St.Hansaften
         type: observance
       07-04: false
       07-20: false

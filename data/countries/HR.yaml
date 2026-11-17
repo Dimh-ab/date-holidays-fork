@@ -111,6 +111,12 @@ holidays:
         type: public
         active:
           - from: "2020-01-01"
+      12-06:
+        name:
+          hr: Sveti Nikola
+          en: Saint Nicholas Day
+          sv: Sankt Nikolausdagen
+        type: observance
       12-25:
         _name: 12-25
         type: public
@@ -131,14 +137,8 @@ holidays:
         _name: julian 12-25
         type: optional
         note: Orthodox believers (legally defined as Christians who follow the Julian Calender)
-      10 Dhu al-Hijjah:
-        _name: 10 Dhu al-Hijjah
-        type: optional
-        note: Muslim believers
-      1 Shawwal:
-        _name: 1 Shawwal
-        type: optional
-        note: Muslim believers
+      10 Dhu al-Hijjah: false
+      1 Shawwal: false
       1 Tishrei: false
       10 Tishrei:
         _name: 10 Tishrei

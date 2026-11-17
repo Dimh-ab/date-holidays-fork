@@ -18,6 +18,9 @@ holidays:
         _name: easter -3
       easter -2:
         _name: easter -2
+      easter -1:
+        _name: easter -1
+        type: observance
       easter:
         _name: easter
       05-01:
@@ -41,6 +44,9 @@ holidays:
         _name: 11-01
       12-08:
         _name: 12-08
+      12-24:
+        _name: 12-24
+        type: observance
       12-25:
         _name: 12-25
     regions:

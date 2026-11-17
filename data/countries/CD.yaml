@@ -27,8 +27,7 @@ holidays:
           fr: Journée du Héro National Laurent Désiré Kabila
           en: Anniversary of President Laurent Kabila
           sv: President Laurent Kabilas årsdag
-      01-17 and if sunday then next monday:
-        substitute: true
+      01-17:
         name:
           fr: Journée du Héro National Patrice Emery Lumumba
           en: Anniversary of Prime Minister Patrice Emery Lumumba
@@ -36,20 +35,14 @@ holidays:
       05-01 and if sunday then next monday:
         substitute: true
         _name: 05-01
-      05-17 and if sunday then next monday:
-        substitute: true
-        name:
-          fr: Journée de la Révolution et des Forces Armées
-          en: Liberation Day
-          sv: Befrielsedagen
+      05-17 and if sunday then next monday: false
       06-30 and if sunday then next monday:
         substitute: true
         _name: Independence Day
         name:
           fr: Anniversaire de Indépendance
-          sv: Självständighetsdagen
-      08-01 and if sunday then next monday:
-        substitute: true
+          sv: Självständighetsdagen/Nationaldagen
+      08-01:
         name:
           fr: Fête des parents
           en: Parents' Day

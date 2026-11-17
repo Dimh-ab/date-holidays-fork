@@ -9,6 +9,15 @@
     "_weekday": "Wed"
   },
   {
+    "date": "2025-01-07 00:00:00",
+    "start": "2025-01-06T22:00:00.000Z",
+    "end": "2025-01-07T22:00:00.000Z",
+    "name": "Orthodox Christmas",
+    "type": "public",
+    "rule": "julian 12-25",
+    "_weekday": "Tue"
+  },
+  {
     "date": "2025-04-18 00:00:00",
     "start": "2025-04-17T21:00:00.000Z",
     "end": "2025-04-18T21:00:00.000Z",
@@ -24,6 +33,15 @@
     "name": "Lieldienas",
     "type": "public",
     "rule": "easter",
+    "_weekday": "Sun"
+  },
+  {
+    "date": "2025-04-20 00:00:00",
+    "start": "2025-04-19T21:00:00.000Z",
+    "end": "2025-04-20T21:00:00.000Z",
+    "name": "Orthodox Easter",
+    "type": "public",
+    "rule": "orthodox",
     "_weekday": "Sun"
   },
   {
@@ -70,6 +88,15 @@
     "name": "Mātes diena",
     "type": "observance",
     "rule": "2nd sunday in May",
+    "_weekday": "Sun"
+  },
+  {
+    "date": "2025-06-08 00:00:00",
+    "start": "2025-06-07T21:00:00.000Z",
+    "end": "2025-06-08T21:00:00.000Z",
+    "name": "Pentecost",
+    "type": "public",
+    "rule": "easter 49",
     "_weekday": "Sun"
   },
   {

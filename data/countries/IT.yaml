@@ -39,6 +39,19 @@ holidays:
           sv: Republikens dag
       08-15:
         _name: 08-15
+      10-02:
+        name:
+          it: Festa dei nonni
+          en: Grandparents' Day
+          sv: Far- och morföräldrarnas dag
+        type: observance
+      10-04:
+        name:
+          it: San Francesco d'Assisi
+          en: Saint Francis of Assisi
+          sv: San Francesco d’Assisi
+        active:
+          - from: 2026
       11-01:
         _name: 11-01
       11-02:
@@ -49,6 +62,9 @@ holidays:
         _name: 12-25
       12-26:
         _name: 12-26
+      12-31:
+        _name: 12-31
+        type: observance
       "2011-03-17":
         name:
           it: Festa Nazionale 2011

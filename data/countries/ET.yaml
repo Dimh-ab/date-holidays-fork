@@ -14,10 +14,12 @@ holidays:
     zones:
       - Africa/Nairobi
     days:
-      01-06 in non-leap years:
-        _name: 12-25
-      01-07 in leap years:
-        _name: 12-25
+      01-06 in non-leap years: false
+      01-07 in leap years: false
+      julian 12-25:
+        _name: julian 12-25
+        name:
+          sv: Ortodoxa juldagen
       julian 01-06:
         name:
           en: Timkat
@@ -27,19 +29,15 @@ holidays:
           am: የዓድዋ ድል በዓል
           en: Victory at Adwa Day
           sv: Slaget vid Adua
-      03-28:
-        name:
-          am: የቀይ ሽብር መታሰቢያ ቀን
-          en: Day of Lament
-          sv: Minnesdagen för Röda terrorn
+      03-28: false
       orthodox -2:
         _name: easter -2
       orthodox:
         _name: easter
-      04-12:
         name:
           en: Fasika
-          sv: Fasika
+          sv: Fasika - Etiopisk/ortodox påsk
+      04-12: false
       05-01:
         _name: 05-01
       05-05:
@@ -54,8 +52,14 @@ holidays:
           sv: Downfall of the Derg (holiday)
       09-11 in non-leap years:
         _name: 01-01
+        name:
+          en: Enkutatash
+          sv: Etiopiska nyåret
       09-12 in leap years:
         _name: 01-01
+        name:
+          en: Enkutatash
+          sv: Etiopiska nyåret
       09-27 in non-leap years:
         name:
           am: መስቀል

@@ -33,12 +33,7 @@ holidays:
           sv: Internationella barndagen
           zh: 六一儿童节
         note: Children below the age of 14
-      08-01 12:00:
-        name:
-          en: Army Day
-          sv: Kinesiska folkets befrielsearmés dag
-          zh: 建军节
-        note: Military personnel in active service
+      08-01 12:00: false
       10-01:
         name:
           en: National Day
@@ -47,12 +42,12 @@ holidays:
       10-02:
         name:
           en: National Day
-          sv: Nationaldag
+          sv: Nationaldag 2
           zh: 国庆节
       10-03:
         name:
           en: National Day
-          sv: Nationaldag
+          sv: Nationaldag 3
           zh: 国庆节
       chinese 01-0-00: # Spring Festival Eve
         name:
@@ -82,7 +77,7 @@ holidays:
       chinese 08-0-15: # 15th day of 8th lunar month
         name:
           en: Mid-Autumn Festival
-          sv: Månfesten
+          sv: Midhöstfesten
           zh: 中秋节
       chinese 09-0-09: # 9th day of 9th lunar month
         name:
@@ -146,13 +141,13 @@ holidays:
       "2021-09-19":
         name:
           en: Mid-Autumn Festival
-          sv: Månfesten
+          sv: Midhöstfesten
           zh: 中秋节
         note: Work on Sat September 18.
       "2021-09-20":
         name:
           en: Mid-Autumn Festival
-          sv: Månfesten
+          sv: Midhöstfesten
           zh: 中秋节
       "2021-10-04":
         name:

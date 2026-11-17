@@ -114,7 +114,7 @@
     "end": "2023-06-20T05:00:00.000Z",
     "name": "Juneteenth",
     "type": "public",
-    "rule": "06-19 and if sunday then next monday if saturday then previous friday since 2021",
+    "rule": "06-19 since 2021",
     "_weekday": "Mon"
   },
   {

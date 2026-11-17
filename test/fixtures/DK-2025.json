@@ -85,6 +85,15 @@
     "date": "2025-06-05 00:00:00",
     "start": "2025-06-04T22:00:00.000Z",
     "end": "2025-06-05T22:00:00.000Z",
+    "name": "Father's Day",
+    "type": "observance",
+    "rule": "06-05 #1",
+    "_weekday": "Thu"
+  },
+  {
+    "date": "2025-06-05 00:00:00",
+    "start": "2025-06-04T22:00:00.000Z",
+    "end": "2025-06-05T22:00:00.000Z",
     "name": "Grundlovsdag",
     "type": "observance",
     "note": "Shops are closed",
