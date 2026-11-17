@@ -13,9 +13,7 @@ holidays:
     days:
       01-01:
         _name: 01-01
-      01-06:
-        _name: 01-06
-        type: observance
+      01-06: false
       02-02:
         name:
           et: Tartu rahulepingu aastapäev
@@ -30,6 +28,12 @@ holidays:
           et: emakeelepäev
           en: Native Language Day
           sv: Modersmålsdagen
+        type: observance
+      easter -47:
+        name:
+          et: vastlapäev
+          en: Shrove Tuesday
+          sv: Fettisdagen
         type: observance
       easter -2:
         _name: easter -2

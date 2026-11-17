@@ -28,10 +28,16 @@ holidays:
         type: observance
       orthodox -2:
         _name: easter -2
+        name:
+          sv: Ortodox långfredag
       orthodox:
         _name: easter
+        name:
+          sv: Ortodox påskdag
       orthodox 1:
         _name: easter 1
+        name:
+          sv: Ortodox annandag påsk
       05-01:
         _name: 05-01
       05-06:
@@ -44,7 +50,7 @@ holidays:
         name:
           bg: Ден на азбуката, културата и просветата
           en: Bulgarian Education and Culture, and Slavonic Literature Day
-          sv: Bulgarian Education and Culture, and Slavonic Literature Day
+          sv: Alfabetets, utbildningens och kulturens dag
       09-06:
         name:
           bg: Ден на съединението

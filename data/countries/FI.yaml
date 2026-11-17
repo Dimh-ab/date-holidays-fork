@@ -21,6 +21,12 @@ holidays:
           fi: Saamelaisten kansallispäivä
           sv: Samernas nationaldag
         type: observance
+      easter -47:
+        name:
+          fi: Laskiaistiistai
+          en: Shrove Tuesday
+          sv: Fettisdagen
+        type: observance
       easter -2:
         _name: easter -2
       easter:

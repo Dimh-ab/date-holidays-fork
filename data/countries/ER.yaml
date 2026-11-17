@@ -16,18 +16,14 @@ holidays:
         _name: 01-01
       julian 12-25:
         _name: julian 12-25
+        name:
+          sv: Ortodox juldag
       julian 01-06:
         name:
           en: Timkat
           sv: Timkat
-      01-06 in non-leap years:
-        name:
-          en: Orthodox Christmas Day
-          sv: Ortodoxa juldagen
-      01-07 in leap years:
-        name:
-          en: Orthodox Christmas Day
-          sv: Ortodoxa juldagen
+      01-06 in non-leap years: false
+      01-07 in leap years: false
       02-10:
         name:
           ti: ፈንቅል

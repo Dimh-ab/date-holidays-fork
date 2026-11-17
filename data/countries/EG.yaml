@@ -17,11 +17,7 @@ holidays:
           ar: "عيد ثورة 25 يناير"
           en: 2011 Egyptian revolution
           sv: Egyptiska revolutionen 2011
-      01-25:
-        name:
-          ar: "عيد الشرطة"
-          en: National Police Day
-          sv: Nationella polisdagen
+      01-25: false
       04-25:
         name:
           ar: "عيد تحرير سيناء"
@@ -48,6 +44,8 @@ holidays:
           sv: Sham El Nessim
       julian 12-25:
         _name: 12-25
+        name:
+          sv: Ortodox juldag
       1 Muharram:
         _name: 1 Muharram
       12 Rabi al-awwal:

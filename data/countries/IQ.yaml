@@ -17,7 +17,7 @@ holidays:
         name:
           ar: "يوم الجيش"
           en: Army Day
-          sv: Armens dag
+          sv: Arméns dag
       03-21:
         name:
           ar: "نوروز"
@@ -58,11 +58,7 @@ holidays:
           ar: "عيد الغدير"
           en: Eid al-Ghadir
           sv: Id al-Ghadeer
-      04-09:
-        name:
-          ar: "يوم التحرير"
-          en: Liberation Day
-          sv: Liberation Day
+      04-09: false
       07-14:
         name:
           ar: "يوم الجمهورية"

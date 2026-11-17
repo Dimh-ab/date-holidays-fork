@@ -16,9 +16,7 @@ holidays:
         _name: Independence Day
       easter -2:
         _name: easter -2
-      easter:
-        _name: easter
-        type: observance
+      easter: false
       easter 1:
         _name: easter 1
       05-01:

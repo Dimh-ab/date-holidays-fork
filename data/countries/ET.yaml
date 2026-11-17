@@ -32,6 +32,8 @@ holidays:
       03-28: false
       orthodox -2:
         _name: easter -2
+        name:
+          sv: Ortodoxa långfredagen
       orthodox:
         _name: easter
         name:
@@ -45,11 +47,7 @@ holidays:
           am: የአርበኞች ቀን
           en: Ethiopian Patriots' Victory Day
           sv: Ethiopian Patriots' Victory Day
-      05-28:
-        name:
-          am: ደርግ የወደቀበት ቀን
-          en: Downfall of the Derg (holiday)
-          sv: Downfall of the Derg (holiday)
+      05-28: false
       09-11 in non-leap years:
         _name: 01-01
         name:
