@@ -33,12 +33,12 @@ holidays:
       orthodox -2:
         _name: easter -2
         name:
-          sv: Ortodoxa långfredagen
+          sv: Ortodox långfredag
       orthodox:
         _name: easter
         name:
           en: Fasika
-          sv: Fasika - Etiopisk/ortodox påsk
+          sv: Ortodox påskdag
       04-12: false
       05-01:
         _name: 05-01
