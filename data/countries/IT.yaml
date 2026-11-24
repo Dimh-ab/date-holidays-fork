@@ -18,6 +18,12 @@ holidays:
       03-19:
         _name: Fathers Day
         type: observance
+      easter -47:
+        name:
+          it: Martedì grasso
+          en: Carnival
+          sv: Karneval
+        type: observance
       easter:
         _name: easter
       easter 1:
@@ -36,7 +42,7 @@ holidays:
         name:
           it: Festa della Repubblica
           en: Republic Day
-          sv: Republikens dag
+          sv: Nationaldag
       08-15:
         _name: 08-15
       10-02:
@@ -62,6 +68,8 @@ holidays:
         _name: 12-25
       12-26:
         _name: 12-26
+        name:
+          sv: Sankt Stefans dag
       12-31:
         _name: 12-31
         type: observance
