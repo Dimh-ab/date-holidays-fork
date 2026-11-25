@@ -85,7 +85,7 @@ holidays:
       julian 01-06:
         name:
           en: Orthodox Epiphany
-          sv: Ortodox trettondag jul
+          sv: Ortodox trettondedag jul
         type: optional
         note: Orthodox believers
       orthodox -2:

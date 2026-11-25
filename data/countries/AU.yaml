@@ -55,6 +55,8 @@ holidays:
       12-26 and if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 12-26
+        name:
+          sv: Annandag jul (Boxing day)
     states:
       # @source https://www.legislation.act.gov.au/a/1958-19
       ACT:
@@ -168,6 +170,8 @@ holidays:
           12-26 if saturday then next monday if sunday then next tuesday:
             substitute: true
             _name: 12-26
+            name:
+              sv: Annandag jul (Boxing day)
           12-31 19:00:
             _name: 12-31
       # @source https://www.legislation.qld.gov.au/view/html/inforce/current/act-1983-018
@@ -280,6 +284,8 @@ holidays:
           12-26 if saturday then next monday if sunday then next tuesday:
             substitute: true
             _name: 12-26
+            name:
+              sv: Annandag jul (Boxing day)
       # @source https://www.legislation.vic.gov.au/search?q=holidays&page=1&sort%5B_score%5D=desc&sort%5Btitle_az%5D=asc&queryType=title
       VIC:
         name: Victoria

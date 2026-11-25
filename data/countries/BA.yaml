@@ -50,6 +50,8 @@ holidays:
         _name: easter 60
       08-15:
         _name: 08-15
+        name:
+          sv: Katolsk Jungfru Marie himmelsfärds dag
       11-01:
         _name: 11-01
       11-02:
@@ -58,6 +60,8 @@ holidays:
         _name: 12-25
       12-26:
         _name: 12-26
+        name:
+          sv: Stefanosdagen / Annandag jul
       # Orthodox
       # public holiday in municipalities in which Serbs are majority
       julian 01-01:

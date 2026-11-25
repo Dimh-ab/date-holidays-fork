@@ -135,13 +135,13 @@ holidays:
         _name: 11-01
         name:
           es: Todos Santos
-          sv: Alla Helgons dag
+          sv: Alla helgons dag
         type: observance
       11-02:
         _name: 11-02
         name:
           es: Todos Santos
-          sv: Alla Helgons dag
+          sv: Alla helgons dag
       12-25:
         _name: 12-25
       substitutes 12-25 if sunday then next monday:

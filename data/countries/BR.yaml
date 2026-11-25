@@ -42,8 +42,12 @@ holidays:
         type: optional
       easter -2:
         _name: easter -2
+        name:
+          sv: Katolsk långfredag
       easter:
         _name: easter
+        name:
+          sv: Katolsk påskdag
         type: observance
       05-01:
         _name: 05-01

@@ -52,12 +52,12 @@ holidays:
         _name: 01-01
         name:
           en: Enkutatash
-          sv: Etiopiska nyåret
+          sv: Ortodox nyårsdag
       09-12 in leap years:
         _name: 01-01
         name:
           en: Enkutatash
-          sv: Etiopiska nyåret
+          sv: Ortodox nyårsdag
       09-27 in non-leap years:
         name:
           am: መስቀል
