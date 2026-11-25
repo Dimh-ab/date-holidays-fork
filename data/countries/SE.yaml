@@ -360,7 +360,7 @@ holidays:
         type: optional
       saturday after 10-31:
         _name: 11-01
-      sunday after 10-31:
+      sunday after 11-01:
         _name: 11-02
       # @source https://sv.wikipedia.org/wiki/Gustav_Adolfsdagen
       11-06:

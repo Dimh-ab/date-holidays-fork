@@ -16,7 +16,7 @@ holidays:
       easter -48:
         name:
           da: Fastelavn
-          sv: Fastlagen
+          sv: Fastelavn
         type: observance
       easter -3:
         _name: easter -3

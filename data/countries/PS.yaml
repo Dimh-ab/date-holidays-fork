@@ -17,7 +17,7 @@ holidays:
         name:
           ar: "عيد الميلاد حسب التقويم الشرقي"
           en: "Orthodox Christmas Day"
-          sv: "Ortodoxa juldagen"
+          sv: "Ortodox juldag"
       05-01:
         _name: 05-01
       11-15:

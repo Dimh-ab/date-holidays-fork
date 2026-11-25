@@ -693,15 +693,6 @@
     "_weekday": "Tue"
   },
   {
-    "date": "2027-10-31 00:00:00",
-    "start": "2027-10-30T22:00:00.000Z",
-    "end": "2027-10-31T23:00:00.000Z",
-    "name": "Alla själars dag",
-    "type": "public",
-    "rule": "sunday after 10-31",
-    "_weekday": "Sun"
-  },
-  {
     "date": "2027-11-05 12:00:00",
     "start": "2027-11-05T11:00:00.000Z",
     "end": "2027-11-05T23:00:00.000Z",
@@ -727,6 +718,15 @@
     "type": "observance",
     "rule": "11-06",
     "_weekday": "Sat"
+  },
+  {
+    "date": "2027-11-07 00:00:00",
+    "start": "2027-11-06T23:00:00.000Z",
+    "end": "2027-11-07T23:00:00.000Z",
+    "name": "Alla själars dag",
+    "type": "public",
+    "rule": "sunday after 11-01",
+    "_weekday": "Sun"
   },
   {
     "date": "2027-11-07 00:00:00",

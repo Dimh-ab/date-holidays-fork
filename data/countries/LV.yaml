@@ -46,7 +46,7 @@ holidays:
       06-24:
         name:
           en: Midsummer
-          sv: Midsommar
+          sv: Midsommardagen
           lv: Jāņi
       11-18 and if saturday,sunday then next monday:
         substitute: true

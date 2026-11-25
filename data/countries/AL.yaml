@@ -45,13 +45,13 @@ holidays:
         name:
           sq: Pashkët Katolike
           en: Catholic Easter
-          sv: Katolsk Påsk
+          sv: Katolsk påsk
       orthodox: false
       orthodox 1:
         name:
           sq: Pashkët Ortodokse
           en: Orthodox Easter
-          sv: Ortodox Påsk
+          sv: Ortodox påsk
       05-01 and if sunday then next monday:
         _name: 05-01
         substitute: true

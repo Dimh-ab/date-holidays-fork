@@ -40,8 +40,12 @@ holidays:
         _name: 01-06
       easter:
         _name: easter
+        name:
+          sv: Katolsk påskdag
       easter 1:
         _name: easter 1
+        name:
+          sv: Katolsk annandag påsk
       easter 60:
         _name: easter 60
       08-15:

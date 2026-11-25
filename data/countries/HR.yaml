@@ -21,6 +21,8 @@ holidays:
         type: observance
       easter:
         _name: easter
+        name:
+          sv: Katolsk påskdag
         type: public
       easter 1:
         _name: easter 1

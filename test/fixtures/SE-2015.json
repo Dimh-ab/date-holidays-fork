@@ -716,7 +716,7 @@
     "end": "2015-11-01T23:00:00.000Z",
     "name": "Alla själars dag",
     "type": "public",
-    "rule": "sunday after 10-31",
+    "rule": "sunday after 11-01",
     "_weekday": "Sun"
   },
   {

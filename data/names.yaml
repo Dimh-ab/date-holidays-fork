@@ -710,7 +710,7 @@ names:
       no: Kristi himmelfartsdag
       pap: Dia di Asuncion
       ro: Ziua Eroilor
-      sv: Kristi himmelfärdsdag
+      sv: Kristi himmelsfärdsdag
       vi: Lễ Thăng Thiên
   easter 49: # Pentecost / Whit Sunday
     name:
@@ -777,13 +777,13 @@ names:
       nl: Orthodox Nieuwjaar
       sq: Viti i Ri Ortodoks
       sr: Православна Нова година
-      sv: Ortodoxa nyår
+      sv: Ortodox nyår
   julian 12-24:
     name:
       en: Orthodox Christmas Eve
       nl: Orthodoxe Kerstavond
       mk: Бадник
-      sv: Ortodoxa julafton
+      sv: Ortodox julafton
       ti: ልደት
   julian 12-25:
     name:
@@ -795,7 +795,7 @@ names:
       ro: Craciun pe Rit Vechi
       sq: Krishtlindjet Ortodokse
       sr: Божић
-      sv: Ortodoxa juldagen
+      sv: Ortodox juldag
       uk: Різдво
   orthodox -2:
     name:
@@ -803,7 +803,7 @@ names:
       mk: Велики Петок
       nl: Orthodoxe Goede Vrijdag
       sr: Велики петак
-      sv: Ortodoxa långfredag
+      sv: Ortodox långfredag
       ti: ዓርቢ ስቅለት
   orthodox:
     name:

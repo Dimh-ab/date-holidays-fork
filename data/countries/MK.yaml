@@ -1,4 +1,4 @@
-﻿# @source http://www.mtsp.gov.mk/WBStorage/Files/zakon_praznici.pdf
+# @source http://www.mtsp.gov.mk/WBStorage/Files/zakon_praznici.pdf
 holidays:
   MK:
     names:
@@ -18,9 +18,11 @@ holidays:
         substitute: true
         _name: julian 12-25
         name:
-          sv: Ortodox juldagen
+          sv: Ortodox juldag
       orthodox:
         _name: orthodox
+        name:
+          sv: Ortodox påskdag
       orthodox 1:
         _name: orthodox 1
       05-01 and if sunday then next monday:

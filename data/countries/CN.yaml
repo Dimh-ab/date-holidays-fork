@@ -52,17 +52,17 @@ holidays:
       chinese 01-0-00: # Spring Festival Eve
         name:
           en: Spring Festival
-          sv: Kinesiska nyåret
+          sv: Kinesiska nyåret dag 1
           zh: 春节
       chinese 01-0-01: # 1st day of 1st lunar month
         name:
           en: Spring Festival
-          sv: Kinesiska nyåret
+          sv: Kinesiska nyåret dag 2
           zh: 春节
       chinese 01-0-02:
         name:
           en: Spring Festival
-          sv: Kinesiska nyåret
+          sv: Kinesiska nyåret dag 3
           zh: 春节
       chinese 5-01 solarterm: # Tomb-Sweeping Day
         name:

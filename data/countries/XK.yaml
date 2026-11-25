@@ -23,6 +23,8 @@ holidays:
         _name: Constitution Day
       easter:
         _name: easter
+        name:
+          sv: Katolsk påskdag
       orthodox:
         _name: orthodox
       05-01:
