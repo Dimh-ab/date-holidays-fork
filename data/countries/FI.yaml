@@ -37,13 +37,13 @@ holidays:
         name:
           fi: Vapunaatto
           en: May Day Eve
-          sv: Valborgsmässoafton
+          sv: Vappu
         type: observance
       05-01:
         _name: 05-01
         name:
           fi: Vappu
-          sv: Första maj
+          sv: Vappu
       easter 39:
         _name: easter 39
       easter 49:

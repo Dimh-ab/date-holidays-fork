@@ -140,7 +140,7 @@
     "end": "2022-12-26T13:00:00.000Z",
     "name": "Boxing Day",
     "type": "public",
-    "rule": "12-26 and if saturday then next monday if sunday then next tuesday",
+    "rule": "12-26",
     "_weekday": "Mon"
   },
   {

@@ -132,17 +132,7 @@
     "end": "2020-12-26T13:00:00.000Z",
     "name": "Boxing Day",
     "type": "public",
-    "rule": "12-26 and if saturday then next monday if sunday then next tuesday",
+    "rule": "12-26",
     "_weekday": "Sat"
-  },
-  {
-    "date": "2020-12-28 00:00:00",
-    "start": "2020-12-27T13:00:00.000Z",
-    "end": "2020-12-28T13:00:00.000Z",
-    "name": "Boxing Day (substitute day)",
-    "type": "public",
-    "substitute": true,
-    "rule": "12-26 and if saturday then next monday if sunday then next tuesday",
-    "_weekday": "Mon"
   }
 ]
