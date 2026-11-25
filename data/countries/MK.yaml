@@ -21,8 +21,6 @@ holidays:
           sv: Ortodox juldag
       orthodox:
         _name: orthodox
-        name:
-          sv: Ortodox påskdag
       orthodox 1:
         _name: orthodox 1
       05-01 and if sunday then next monday:
